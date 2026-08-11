@@ -1,0 +1,622 @@
+rmaNumber,orderNumber,customerNumber,requestDate,approvedDate,returnedDate,resolvedDate,reason,status,refundAmount,comments
+RMA-00001,12854,20850,2024-06-29,2024-07-01,2024-07-04,2024-07-09,Wrong Item Shipped,Completed,62.79,Customer provided photos of damage.
+RMA-00002,12394,24789,2022-02-09,,,,Changed Mind,Rejected,0.0,Second review requested.
+RMA-00003,13433,23085,2025-05-14,2025-05-16,,,Wrong Item Shipped,Approved,1153.36,Replacement sent instead of refund.
+RMA-00004,19574,24312,2025-05-14,2025-05-17,2025-05-31,,Packaging Damaged,Received,389.64,
+RMA-00005,14019,20521,2022-07-26,2022-07-30,2022-08-10,2022-08-11,Changed Mind,Completed,705.02,Escalated to manager.
+RMA-00006,10828,21373,2022-05-19,2022-05-23,,,Packaging Damaged,Approved,44.81,Second review requested.
+RMA-00007,13568,20866,2026-06-02,2026-06-04,2026-06-11,2026-06-15,Not as Described,Completed,599.59,
+RMA-00008,12843,24515,2022-04-24,2022-04-29,,,Defective Product,Approved,101.32,Item received and inspected.
+RMA-00009,16747,22425,2024-11-21,2024-11-26,,,Missing Parts,Approved,53.39,
+RMA-00010,19033,21627,2026-01-11,,,,Changed Mind,Rejected,0.0,Awaiting return shipment.
+RMA-00011,10631,24197,2024-04-04,2024-04-07,,,Quality Not Acceptable,Approved,261.27,Refund issued to original payment method.
+RMA-00012,14596,23159,2025-09-15,2025-09-19,2025-10-02,2025-10-06,Defective Product,Completed,288.14,Partial refund agreed upon.
+RMA-00013,17055,20710,2023-11-15,,,,Item Arrived Too Late,Pending,0.0,Escalated to manager.
+RMA-00014,12998,20881,2025-05-03,,,,Packaging Damaged,Pending,0.0,
+RMA-00015,15624,23191,2023-11-26,2023-12-01,,,Packaging Damaged,Approved,274.34,
+RMA-00016,10710,22707,2026-07-20,2026-07-20,2026-07-20,2026-07-20,Duplicate Order,Completed,1068.78,
+RMA-00017,15302,24901,2022-10-13,2022-10-14,2022-10-24,2022-10-26,Damaged in Shipping,Completed,273.42,Replacement sent instead of refund.
+RMA-00018,11715,22575,2023-11-15,2023-11-17,2023-11-28,2023-12-05,Damaged in Shipping,Completed,106.3,
+RMA-00019,15348,21811,2025-08-09,2025-08-12,2025-08-26,2025-08-28,Defective Product,Completed,959.81,Awaiting return shipment.
+RMA-00020,14307,24793,2022-12-22,,,,Wrong Item Shipped,Pending,0.0,
+RMA-00021,16727,23553,2024-09-18,2024-09-21,,,Defective Product,Approved,37.54,Second review requested.
+RMA-00022,14693,23731,2026-03-08,2026-03-10,2026-03-19,2026-03-23,Changed Mind,Completed,1096.21,Second review requested.
+RMA-00023,11766,22675,2024-03-14,2024-03-18,2024-03-21,,Missing Parts,Received,51.5,Forwarded to quality control.
+RMA-00024,19121,23518,2025-12-07,,,,Quality Not Acceptable,Pending,0.0,
+RMA-00025,14169,23188,2026-05-01,2026-05-04,2026-05-18,2026-05-19,Defective Product,Completed,439.8,Awaiting return shipment.
+RMA-00026,14776,24145,2023-06-24,2023-06-25,2023-07-02,2023-07-06,Defective Product,Completed,1319.9,
+RMA-00027,20182,24516,2022-02-27,2022-03-03,,,Wrong Item Shipped,Approved,38.63,
+RMA-00028,10544,22308,2026-05-18,,,,Defective Product,Pending,0.0,
+RMA-00029,14899,21797,2026-05-09,2026-05-11,2026-05-25,2026-05-31,Defective Product,Completed,128.94,
+RMA-00030,19197,20347,2025-01-31,2025-02-04,2025-02-15,,Changed Mind,Received,349.84,Partial refund agreed upon.
+RMA-00031,14931,23258,2026-01-17,2026-01-19,,,Not as Described,Approved,194.4,Customer provided photos of damage.
+RMA-00032,13860,21360,2024-11-01,2024-11-05,,,Duplicate Order,Approved,1163.2,
+RMA-00033,14477,22875,2025-04-29,2025-05-02,2025-05-12,,Quality Not Acceptable,Received,26.56,
+RMA-00034,10652,20178,2022-04-13,,,,Missing Parts,Pending,0.0,Customer provided photos of damage.
+RMA-00035,14687,23975,2023-04-18,2023-04-23,2023-05-03,,Changed Mind,Received,538.06,
+RMA-00036,15822,22230,2025-07-09,2025-07-12,,,Defective Product,Approved,1045.6,
+RMA-00037,13883,21457,2025-03-02,2025-03-07,2025-03-11,,Wrong Item Shipped,Received,388.47,Refund issued to original payment method.
+RMA-00038,19509,20983,2022-06-26,2022-06-29,2022-07-03,2022-07-08,Wrong Item Shipped,Completed,179.48,
+RMA-00039,18221,22601,2022-10-30,2022-11-02,,,Not as Described,Approved,890.24,
+RMA-00040,11389,20615,2025-05-14,2025-05-16,,,Not as Described,Approved,97.76,Replacement sent instead of refund.
+RMA-00041,17985,24581,2025-10-02,2025-10-04,2025-10-07,2025-10-09,Missing Parts,Completed,660.13,Refund issued to original payment method.
+RMA-00042,11717,23888,2026-05-12,2026-05-16,2026-05-23,2026-05-25,Quality Not Acceptable,Completed,562.5,Partial refund agreed upon.
+RMA-00043,13186,24430,2022-03-13,2022-03-14,,,Item Arrived Too Late,Approved,62.1,Item received and inspected.
+RMA-00044,16269,21627,2022-02-12,,,,Missing Parts,Pending,0.0,
+RMA-00045,16388,21044,2025-06-25,2025-06-27,,,Item Arrived Too Late,Approved,303.83,Second review requested.
+RMA-00046,14746,20242,2022-07-06,2022-07-10,2022-07-18,2022-07-25,Missing Parts,Completed,94.79,Refund issued to original payment method.
+RMA-00047,12433,20381,2022-08-28,2022-08-31,2022-09-11,2022-09-18,Duplicate Order,Completed,96.33,Item received and inspected.
+RMA-00048,15403,24196,2022-12-11,,,,Damaged in Shipping,Pending,0.0,Replacement sent instead of refund.
+RMA-00049,16898,21518,2025-01-05,2025-01-09,,,Wrong Item Shipped,Approved,22.38,Awaiting return shipment.
+RMA-00050,18388,21232,2024-05-28,2024-05-31,2024-06-06,2024-06-07,Duplicate Order,Completed,1325.28,Replacement sent instead of refund.
+RMA-00051,17772,20966,2022-10-08,,,,Not as Described,Pending,0.0,Second review requested.
+RMA-00052,16565,21588,2023-10-16,2023-10-19,2023-10-25,,Quality Not Acceptable,Received,41.83,Second review requested.
+RMA-00053,15494,20877,2026-02-01,2026-02-06,2026-02-12,2026-02-19,Defective Product,Completed,663.47,Replacement sent instead of refund.
+RMA-00054,11501,22685,2024-11-16,2024-11-19,,,Not as Described,Approved,117.57,RMA label emailed to customer.
+RMA-00055,12715,22650,2023-01-09,2023-01-13,2023-01-21,2023-01-26,Missing Parts,Completed,824.69,
+RMA-00056,16610,20217,2026-01-28,2026-01-31,,,Quality Not Acceptable,Approved,24.03,Awaiting return shipment.
+RMA-00057,14921,24271,2024-04-16,,,,Item Arrived Too Late,Rejected,0.0,RMA label emailed to customer.
+RMA-00058,10671,24242,2025-06-15,2025-06-17,,,Defective Product,Approved,40.37,Awaiting return shipment.
+RMA-00059,18332,20051,2026-01-17,,,,Item Arrived Too Late,Rejected,0.0,Second review requested.
+RMA-00060,16478,21264,2026-01-25,2026-01-28,,,Not as Described,Approved,363.14,Second review requested.
+RMA-00061,16812,20613,2024-03-28,2024-03-29,2024-04-12,,Changed Mind,Received,345.46,Replacement sent instead of refund.
+RMA-00062,17106,20048,2025-03-01,,,,Quality Not Acceptable,Pending,0.0,
+RMA-00063,13064,24970,2024-12-23,2024-12-26,2025-01-01,2025-01-07,Damaged in Shipping,Completed,105.04,Partial refund agreed upon.
+RMA-00064,14293,21944,2024-12-21,2024-12-26,2025-01-04,,Wrong Item Shipped,Received,85.94,
+RMA-00065,17763,22926,2024-02-06,2024-02-10,2024-02-18,,Damaged in Shipping,Received,308.49,
+RMA-00066,14983,22056,2022-06-11,2022-06-13,,,Damaged in Shipping,Approved,413.85,Customer provided photos of damage.
+RMA-00067,16788,23987,2022-08-02,,,,Not as Described,Pending,0.0,Customer provided photos of damage.
+RMA-00068,17573,20685,2026-01-16,2026-01-17,,,Changed Mind,Approved,523.0,Item received and inspected.
+RMA-00069,19637,22107,2026-05-16,2026-05-17,2026-05-25,2026-05-29,Quality Not Acceptable,Completed,508.55,Replacement sent instead of refund.
+RMA-00070,16082,20982,2023-09-10,2023-09-13,2023-09-25,,Quality Not Acceptable,Received,1429.62,
+RMA-00071,13411,20593,2025-09-13,,,,Damaged in Shipping,Pending,0.0,
+RMA-00072,17588,23398,2022-06-18,2022-06-20,,,Packaging Damaged,Approved,163.6,Escalated to manager.
+RMA-00073,18888,22428,2022-06-24,,,,Wrong Item Shipped,Rejected,0.0,
+RMA-00074,18780,24672,2026-07-01,2026-07-02,,,Damaged in Shipping,Approved,717.42,Escalated to manager.
+RMA-00075,11815,24991,2024-07-18,,,,Item Arrived Too Late,Rejected,0.0,
+RMA-00076,10459,21540,2022-02-07,2022-02-10,2022-02-14,,Wrong Item Shipped,Received,229.68,RMA label emailed to customer.
+RMA-00077,19568,23163,2024-06-27,,,,Quality Not Acceptable,Pending,0.0,Item received and inspected.
+RMA-00078,14504,21973,2024-04-01,,,,Packaging Damaged,Pending,0.0,
+RMA-00079,17047,20102,2025-09-05,2025-09-10,2025-09-15,2025-09-16,Item Arrived Too Late,Completed,102.47,
+RMA-00080,19373,24482,2024-06-13,,,,Defective Product,Rejected,0.0,Escalated to manager.
+RMA-00081,17687,20952,2024-05-29,,,,Missing Parts,Rejected,0.0,Item received and inspected.
+RMA-00082,19282,24228,2025-07-15,2025-07-17,2025-07-20,2025-07-21,Duplicate Order,Completed,719.13,
+RMA-00083,12874,24839,2022-02-11,2022-02-12,,,Wrong Item Shipped,Approved,1206.98,Awaiting return shipment.
+RMA-00084,10931,24103,2026-01-03,2026-01-04,,,Damaged in Shipping,Approved,148.7,RMA label emailed to customer.
+RMA-00085,14157,24564,2023-06-23,2023-06-25,,,Duplicate Order,Approved,1168.84,Second review requested.
+RMA-00086,18216,22402,2026-04-11,2026-04-13,2026-04-25,,Not as Described,Received,119.02,
+RMA-00087,18501,21560,2022-02-13,,,,Packaging Damaged,Rejected,0.0,Forwarded to quality control.
+RMA-00088,17718,20001,2026-05-03,2026-05-07,,,Packaging Damaged,Approved,240.3,
+RMA-00089,10435,22648,2025-08-27,2025-08-31,2025-09-14,2025-09-20,Not as Described,Completed,181.25,Customer provided photos of damage.
+RMA-00090,10831,24073,2025-06-04,2025-06-07,,,Changed Mind,Approved,116.39,Refund issued to original payment method.
+RMA-00091,13931,24506,2024-06-08,2024-06-13,2024-06-27,2024-06-29,Item Arrived Too Late,Completed,85.97,Partial refund agreed upon.
+RMA-00092,12437,24453,2022-02-28,,,,Missing Parts,Pending,0.0,
+RMA-00093,13751,21139,2026-03-04,2026-03-07,,,Changed Mind,Approved,467.98,Replacement sent instead of refund.
+RMA-00094,14574,23109,2023-07-04,2023-07-06,2023-07-15,,Packaging Damaged,Received,131.17,Refund issued to original payment method.
+RMA-00095,12329,23674,2023-02-25,,,,Changed Mind,Pending,0.0,RMA label emailed to customer.
+RMA-00096,11226,23679,2024-10-20,,,,Packaging Damaged,Rejected,0.0,Refund issued to original payment method.
+RMA-00097,18803,20767,2024-03-26,2024-03-28,,,Packaging Damaged,Approved,219.98,Replacement sent instead of refund.
+RMA-00098,15273,24485,2026-05-31,2026-06-04,2026-06-07,2026-06-13,Wrong Item Shipped,Completed,506.61,
+RMA-00099,13357,24228,2025-09-08,2025-09-09,,,Packaging Damaged,Approved,1458.88,Partial refund agreed upon.
+RMA-00100,16606,20446,2023-08-16,2023-08-18,,,Wrong Item Shipped,Approved,524.61,
+RMA-00101,17228,23636,2022-04-18,2022-04-19,2022-04-28,2022-04-30,Item Arrived Too Late,Completed,321.73,Awaiting return shipment.
+RMA-00102,14919,22733,2022-04-17,,,,Defective Product,Pending,0.0,Replacement sent instead of refund.
+RMA-00103,10731,22661,2026-03-09,2026-03-11,2026-03-16,,Defective Product,Received,618.66,Partial refund agreed upon.
+RMA-00104,14242,22466,2025-05-01,,,,Duplicate Order,Pending,0.0,Second review requested.
+RMA-00105,15102,21888,2023-07-27,2023-07-28,,,Packaging Damaged,Approved,22.28,Escalated to manager.
+RMA-00106,17315,21986,2023-10-18,,,,Wrong Item Shipped,Rejected,0.0,Customer provided photos of damage.
+RMA-00107,19523,21096,2022-10-02,2022-10-05,2022-10-11,2022-10-18,Changed Mind,Completed,433.17,Partial refund agreed upon.
+RMA-00108,11994,20023,2022-11-10,2022-11-12,2022-11-25,2022-12-02,Changed Mind,Completed,1471.46,Customer provided photos of damage.
+RMA-00109,14260,21129,2024-02-06,2024-02-11,,,Duplicate Order,Approved,364.16,Second review requested.
+RMA-00110,16362,20219,2024-07-05,2024-07-07,2024-07-13,2024-07-15,Quality Not Acceptable,Completed,298.11,Replacement sent instead of refund.
+RMA-00111,19716,21689,2024-03-19,,,,Missing Parts,Rejected,0.0,Second review requested.
+RMA-00112,14836,20336,2023-05-11,,,,Item Arrived Too Late,Pending,0.0,
+RMA-00113,17074,23265,2024-08-14,2024-08-17,2024-08-28,2024-09-04,Changed Mind,Completed,65.61,RMA label emailed to customer.
+RMA-00114,19830,23260,2026-05-14,2026-05-15,2026-05-29,2026-05-31,Quality Not Acceptable,Completed,50.71,Refund issued to original payment method.
+RMA-00115,16808,23348,2025-12-29,2026-01-03,2026-01-14,,Quality Not Acceptable,Received,59.2,Refund issued to original payment method.
+RMA-00116,12184,20561,2022-09-27,2022-10-02,2022-10-12,,Duplicate Order,Received,371.74,
+RMA-00117,19058,21287,2023-07-11,,,,Defective Product,Rejected,0.0,Second review requested.
+RMA-00118,16045,23393,2024-04-21,2024-04-26,2024-05-01,,Duplicate Order,Received,1474.42,
+RMA-00119,13144,21673,2022-06-05,2022-06-07,2022-06-19,2022-06-21,Changed Mind,Completed,455.33,
+RMA-00120,18044,21788,2024-11-02,2024-11-04,,,Damaged in Shipping,Approved,993.87,Escalated to manager.
+RMA-00121,20211,24908,2022-05-05,2022-05-07,2022-05-16,,Defective Product,Received,65.49,Customer provided photos of damage.
+RMA-00122,17267,20456,2023-01-13,2023-01-18,,,Defective Product,Approved,1180.5,Item received and inspected.
+RMA-00123,16953,24062,2026-03-29,2026-04-03,,,Not as Described,Approved,310.54,Item received and inspected.
+RMA-00124,19543,24191,2024-08-27,,,,Duplicate Order,Pending,0.0,Replacement sent instead of refund.
+RMA-00125,12345,20498,2022-11-17,2022-11-20,,,Packaging Damaged,Approved,605.02,Awaiting return shipment.
+RMA-00126,20127,21162,2023-04-22,2023-04-23,,,Wrong Item Shipped,Approved,430.57,Second review requested.
+RMA-00127,18592,24623,2023-12-19,,,,Packaging Damaged,Rejected,0.0,Item received and inspected.
+RMA-00128,17580,23903,2023-09-23,2023-09-26,,,Quality Not Acceptable,Approved,67.8,
+RMA-00129,17395,23731,2024-04-08,2024-04-10,,,Defective Product,Approved,862.02,Refund issued to original payment method.
+RMA-00130,16366,23366,2022-10-30,2022-11-02,2022-11-05,2022-11-11,Damaged in Shipping,Completed,1160.16,Replacement sent instead of refund.
+RMA-00131,12836,22349,2024-11-21,2024-11-23,2024-12-03,,Wrong Item Shipped,Received,241.92,Escalated to manager.
+RMA-00132,13114,24716,2023-10-22,2023-10-25,,,Duplicate Order,Approved,1379.0,Escalated to manager.
+RMA-00133,19054,20105,2022-08-31,2022-09-03,,,Duplicate Order,Approved,1487.96,Replacement sent instead of refund.
+RMA-00134,12505,20472,2023-04-17,2023-04-21,2023-05-04,2023-05-05,Defective Product,Completed,848.33,Replacement sent instead of refund.
+RMA-00135,11251,24808,2022-07-15,2022-07-20,2022-08-02,2022-08-07,Defective Product,Completed,119.28,Second review requested.
+RMA-00136,13612,24368,2025-07-08,2025-07-12,,,Item Arrived Too Late,Approved,132.85,Refund issued to original payment method.
+RMA-00137,18907,22096,2025-02-02,,,,Missing Parts,Pending,0.0,
+RMA-00138,14914,20046,2024-01-07,2024-01-10,2024-01-18,,Changed Mind,Received,470.15,Partial refund agreed upon.
+RMA-00139,17583,20099,2026-05-06,2026-05-10,2026-05-19,2026-05-24,Quality Not Acceptable,Completed,818.83,Customer provided photos of damage.
+RMA-00140,11858,20907,2025-08-10,2025-08-11,2025-08-25,,Defective Product,Received,31.58,Partial refund agreed upon.
+RMA-00141,13715,20985,2022-02-02,2022-02-07,,,Wrong Item Shipped,Approved,772.5,
+RMA-00142,18582,23920,2024-05-19,,,,Duplicate Order,Rejected,0.0,Forwarded to quality control.
+RMA-00143,12202,21316,2023-10-16,2023-10-21,,,Changed Mind,Approved,20.46,RMA label emailed to customer.
+RMA-00144,12516,22903,2025-11-25,2025-11-27,,,Changed Mind,Approved,979.09,Second review requested.
+RMA-00145,18642,21638,2023-11-08,2023-11-13,2023-11-22,,Item Arrived Too Late,Received,1465.65,Awaiting return shipment.
+RMA-00146,14364,24421,2026-01-06,2026-01-08,,,Not as Described,Approved,1352.06,Second review requested.
+RMA-00147,15153,24146,2022-04-09,2022-04-10,,,Packaging Damaged,Approved,1320.1,Forwarded to quality control.
+RMA-00148,13099,23829,2026-04-16,2026-04-21,,,Changed Mind,Approved,106.93,Partial refund agreed upon.
+RMA-00149,11022,22694,2023-06-17,,,,Item Arrived Too Late,Rejected,0.0,RMA label emailed to customer.
+RMA-00150,19874,22663,2024-02-11,,,,Wrong Item Shipped,Pending,0.0,
+RMA-00151,17232,22740,2026-05-25,,,,Damaged in Shipping,Pending,0.0,Partial refund agreed upon.
+RMA-00152,13011,21064,2024-11-29,2024-12-04,,,Item Arrived Too Late,Approved,43.69,Customer provided photos of damage.
+RMA-00153,11939,20583,2025-12-13,2025-12-17,,,Missing Parts,Approved,282.28,Second review requested.
+RMA-00154,20156,21305,2022-08-04,2022-08-08,,,Changed Mind,Approved,877.14,
+RMA-00155,12705,22517,2026-03-26,2026-03-30,2026-04-08,,Damaged in Shipping,Received,273.79,Escalated to manager.
+RMA-00156,12682,20475,2025-09-22,2025-09-26,2025-10-08,2025-10-10,Packaging Damaged,Completed,1135.15,RMA label emailed to customer.
+RMA-00157,15441,24222,2026-03-07,2026-03-12,2026-03-21,,Wrong Item Shipped,Received,1092.79,Escalated to manager.
+RMA-00158,16585,22953,2023-06-30,2023-07-04,,,Defective Product,Approved,69.67,Replacement sent instead of refund.
+RMA-00159,15207,24290,2022-09-07,,,,Missing Parts,Rejected,0.0,Second review requested.
+RMA-00160,14051,24154,2023-02-12,,,,Packaging Damaged,Rejected,0.0,
+RMA-00161,17808,21461,2023-05-14,2023-05-18,2023-05-22,2023-05-23,Packaging Damaged,Completed,1267.69,RMA label emailed to customer.
+RMA-00162,19934,23797,2023-03-24,2023-03-28,,,Packaging Damaged,Approved,298.45,Refund issued to original payment method.
+RMA-00163,19138,22689,2023-07-10,,,,Wrong Item Shipped,Pending,0.0,
+RMA-00164,17079,21183,2025-09-17,2025-09-21,,,Item Arrived Too Late,Approved,733.56,
+RMA-00165,13196,21794,2025-09-23,2025-09-26,2025-10-01,2025-10-03,Damaged in Shipping,Completed,1230.58,Replacement sent instead of refund.
+RMA-00166,20091,21088,2024-12-21,2024-12-22,2024-12-29,2025-01-05,Wrong Item Shipped,Completed,178.57,
+RMA-00167,14034,24399,2026-01-04,,,,Duplicate Order,Pending,0.0,Customer provided photos of damage.
+RMA-00168,17415,21025,2024-10-19,2024-10-23,2024-11-04,2024-11-09,Item Arrived Too Late,Completed,197.11,Item received and inspected.
+RMA-00169,13282,20501,2023-09-08,,,,Damaged in Shipping,Rejected,0.0,Second review requested.
+RMA-00170,19280,22886,2025-06-12,,,,Quality Not Acceptable,Pending,0.0,Forwarded to quality control.
+RMA-00171,13639,23231,2024-02-04,2024-02-05,2024-02-18,2024-02-25,Defective Product,Completed,1440.07,Forwarded to quality control.
+RMA-00172,16968,23814,2022-06-17,,,,Missing Parts,Rejected,0.0,Customer provided photos of damage.
+RMA-00173,17560,20436,2022-09-01,,,,Defective Product,Pending,0.0,Escalated to manager.
+RMA-00174,19528,20672,2022-08-24,2022-08-26,2022-09-06,2022-09-07,Defective Product,Completed,65.75,Refund issued to original payment method.
+RMA-00175,15532,23373,2024-04-02,,,,Quality Not Acceptable,Pending,0.0,Escalated to manager.
+RMA-00176,13905,20890,2024-12-10,2024-12-13,,,Missing Parts,Approved,225.55,Item received and inspected.
+RMA-00177,13065,22835,2024-07-12,,,,Defective Product,Rejected,0.0,
+RMA-00178,17610,20628,2025-01-26,2025-01-30,2025-02-08,2025-02-14,Missing Parts,Completed,911.66,Awaiting return shipment.
+RMA-00179,12090,23878,2025-11-07,2025-11-10,2025-11-20,2025-11-26,Missing Parts,Completed,218.11,Refund issued to original payment method.
+RMA-00180,10864,20701,2022-06-12,2022-06-14,,,Changed Mind,Approved,79.36,Forwarded to quality control.
+RMA-00181,18423,23347,2023-11-06,,,,Wrong Item Shipped,Rejected,0.0,Item received and inspected.
+RMA-00182,13230,20069,2023-04-12,,,,Quality Not Acceptable,Rejected,0.0,Customer provided photos of damage.
+RMA-00183,17317,21187,2024-10-25,2024-10-26,2024-11-02,,Item Arrived Too Late,Received,775.39,Refund issued to original payment method.
+RMA-00184,10917,24629,2026-05-15,2026-05-18,,,Missing Parts,Approved,902.56,Item received and inspected.
+RMA-00185,19965,22405,2022-10-10,,,,Packaging Damaged,Rejected,0.0,Customer provided photos of damage.
+RMA-00186,15018,23798,2023-05-17,2023-05-21,,,Not as Described,Approved,366.48,
+RMA-00187,18893,23422,2025-01-14,2025-01-19,2025-01-22,2025-01-23,Damaged in Shipping,Completed,949.79,Escalated to manager.
+RMA-00188,14872,20509,2023-11-09,2023-11-14,,,Damaged in Shipping,Approved,361.11,Refund issued to original payment method.
+RMA-00189,16377,24605,2022-02-24,2022-02-25,,,Damaged in Shipping,Approved,65.29,Replacement sent instead of refund.
+RMA-00190,13095,21238,2026-05-01,,,,Wrong Item Shipped,Pending,0.0,Item received and inspected.
+RMA-00191,15148,21038,2026-02-27,2026-03-04,2026-03-11,,Quality Not Acceptable,Received,1489.67,Escalated to manager.
+RMA-00192,13399,23856,2026-06-03,,,,Not as Described,Rejected,0.0,Replacement sent instead of refund.
+RMA-00193,19428,23490,2023-05-18,2023-05-23,,,Packaging Damaged,Approved,180.78,Item received and inspected.
+RMA-00194,12319,22264,2022-09-05,2022-09-10,,,Changed Mind,Approved,147.23,Replacement sent instead of refund.
+RMA-00195,15564,20351,2026-02-24,2026-03-01,,,Item Arrived Too Late,Approved,179.33,Item received and inspected.
+RMA-00196,12285,23580,2025-02-08,2025-02-13,2025-02-20,2025-02-26,Duplicate Order,Completed,128.4,
+RMA-00197,19149,22005,2026-01-14,2026-01-16,2026-01-21,2026-01-26,Defective Product,Completed,155.66,RMA label emailed to customer.
+RMA-00198,18529,22423,2026-02-13,2026-02-18,2026-02-27,,Quality Not Acceptable,Received,38.4,RMA label emailed to customer.
+RMA-00199,18086,21901,2023-10-25,,,,Item Arrived Too Late,Pending,0.0,
+RMA-00200,16412,22333,2023-10-19,2023-10-21,,,Missing Parts,Approved,24.23,Escalated to manager.
+RMA-00201,11188,22759,2023-10-24,,,,Item Arrived Too Late,Pending,0.0,Second review requested.
+RMA-00202,17848,23684,2023-01-30,,,,Quality Not Acceptable,Rejected,0.0,Awaiting return shipment.
+RMA-00203,16602,23433,2023-12-09,2023-12-10,2023-12-17,,Missing Parts,Received,86.6,Item received and inspected.
+RMA-00204,16430,22193,2026-07-03,2026-07-08,2026-07-12,2026-07-16,Packaging Damaged,Completed,381.7,Customer provided photos of damage.
+RMA-00205,17618,20483,2022-09-22,2022-09-26,2022-10-08,2022-10-09,Item Arrived Too Late,Completed,397.97,Customer provided photos of damage.
+RMA-00206,15707,23524,2022-09-19,,,,Not as Described,Pending,0.0,
+RMA-00207,17667,20815,2025-10-18,,,,Duplicate Order,Pending,0.0,
+RMA-00208,18987,23883,2022-12-22,,,,Packaging Damaged,Rejected,0.0,
+RMA-00209,19160,24996,2024-06-15,2024-06-16,2024-06-29,2024-07-01,Quality Not Acceptable,Completed,664.49,Refund issued to original payment method.
+RMA-00210,16605,21573,2022-11-03,2022-11-05,,,Wrong Item Shipped,Approved,104.99,Escalated to manager.
+RMA-00211,10867,20651,2025-02-07,2025-02-11,2025-02-16,2025-02-18,Packaging Damaged,Completed,729.8,Refund issued to original payment method.
+RMA-00212,20116,20973,2022-11-02,2022-11-05,,,Defective Product,Approved,1447.03,Replacement sent instead of refund.
+RMA-00213,11678,20584,2026-04-12,2026-04-14,2026-04-23,,Packaging Damaged,Received,721.2,
+RMA-00214,13630,21063,2026-07-20,2026-07-20,2026-07-20,,Damaged in Shipping,Received,602.81,Partial refund agreed upon.
+RMA-00215,15295,20830,2022-10-17,2022-10-19,,,Wrong Item Shipped,Approved,490.38,
+RMA-00216,12169,23465,2022-04-24,,,,Missing Parts,Pending,0.0,
+RMA-00217,15292,24370,2023-10-18,,,,Packaging Damaged,Pending,0.0,
+RMA-00218,19335,20503,2025-06-19,,,,Missing Parts,Pending,0.0,
+RMA-00219,17549,20160,2024-08-25,2024-08-30,,,Defective Product,Approved,59.68,Item received and inspected.
+RMA-00220,16849,23961,2024-10-15,2024-10-19,2024-10-30,2024-11-04,Wrong Item Shipped,Completed,47.41,Awaiting return shipment.
+RMA-00221,20209,24295,2023-09-03,2023-09-05,2023-09-12,,Damaged in Shipping,Received,1181.98,
+RMA-00222,13019,24004,2026-07-02,2026-07-06,2026-07-15,,Packaging Damaged,Received,364.48,
+RMA-00223,10925,22870,2022-09-13,,,,Changed Mind,Rejected,0.0,Escalated to manager.
+RMA-00224,10995,20431,2023-05-13,2023-05-15,2023-05-26,2023-05-29,Item Arrived Too Late,Completed,492.51,Second review requested.
+RMA-00225,15330,22578,2023-12-01,2023-12-04,,,Damaged in Shipping,Approved,995.63,
+RMA-00226,15335,24595,2022-06-14,2022-06-15,2022-06-26,,Changed Mind,Received,416.19,
+RMA-00227,16679,24760,2023-08-30,2023-09-03,2023-09-09,2023-09-14,Duplicate Order,Completed,345.41,Escalated to manager.
+RMA-00228,19272,22404,2025-07-17,2025-07-22,,,Changed Mind,Approved,608.65,
+RMA-00229,14354,23043,2023-03-16,2023-03-17,,,Item Arrived Too Late,Approved,62.49,Forwarded to quality control.
+RMA-00230,19888,20947,2026-04-21,2026-04-23,2026-05-07,,Item Arrived Too Late,Received,342.96,RMA label emailed to customer.
+RMA-00231,12494,20773,2023-07-22,2023-07-23,2023-08-04,2023-08-08,Missing Parts,Completed,255.12,Forwarded to quality control.
+RMA-00232,19090,23060,2024-07-06,2024-07-09,2024-07-17,2024-07-23,Duplicate Order,Completed,112.42,
+RMA-00233,18883,24786,2023-08-29,2023-08-30,,,Duplicate Order,Approved,48.21,
+RMA-00234,19271,22336,2023-07-05,,,,Defective Product,Pending,0.0,Partial refund agreed upon.
+RMA-00235,12796,21528,2022-04-27,2022-05-01,,,Changed Mind,Approved,59.58,Refund issued to original payment method.
+RMA-00236,18402,20960,2026-07-20,2026-07-20,2026-07-20,,Missing Parts,Received,312.22,RMA label emailed to customer.
+RMA-00237,12337,24855,2022-04-13,2022-04-18,,,Wrong Item Shipped,Approved,1019.39,Forwarded to quality control.
+RMA-00238,10850,23460,2026-03-08,2026-03-13,,,Packaging Damaged,Approved,1002.11,Forwarded to quality control.
+RMA-00239,12534,23402,2023-05-04,2023-05-06,2023-05-16,,Wrong Item Shipped,Received,264.14,Second review requested.
+RMA-00240,13699,20932,2022-04-13,,,,Changed Mind,Pending,0.0,
+RMA-00241,10984,24522,2026-07-20,2026-07-20,,,Item Arrived Too Late,Approved,951.93,
+RMA-00242,16619,20933,2024-09-16,2024-09-19,2024-09-26,2024-10-02,Packaging Damaged,Completed,53.98,Awaiting return shipment.
+RMA-00243,18317,24938,2023-11-26,2023-12-01,2023-12-10,,Wrong Item Shipped,Received,480.82,Forwarded to quality control.
+RMA-00244,19242,20254,2025-03-06,2025-03-07,,,Damaged in Shipping,Approved,1061.38,
+RMA-00245,10462,21357,2026-03-08,2026-03-09,2026-03-14,,Item Arrived Too Late,Received,106.1,Refund issued to original payment method.
+RMA-00246,16813,20630,2024-09-02,,,,Not as Described,Pending,0.0,Second review requested.
+RMA-00247,19931,23349,2024-03-18,2024-03-19,2024-03-27,2024-03-30,Defective Product,Completed,1496.9,Partial refund agreed upon.
+RMA-00248,12366,24572,2026-04-27,2026-04-29,,,Damaged in Shipping,Approved,330.46,Refund issued to original payment method.
+RMA-00249,15722,24428,2022-07-12,,,,Defective Product,Rejected,0.0,Forwarded to quality control.
+RMA-00250,17314,20509,2022-03-14,2022-03-16,2022-03-21,,Defective Product,Received,60.24,
+RMA-00251,16609,22989,2022-10-24,2022-10-25,,,Not as Described,Approved,34.72,Second review requested.
+RMA-00252,15392,21586,2024-10-21,2024-10-25,2024-11-05,,Duplicate Order,Received,622.19,
+RMA-00253,13894,21119,2025-06-29,,,,Packaging Damaged,Pending,0.0,
+RMA-00254,13423,21097,2024-01-07,2024-01-10,2024-01-19,2024-01-24,Not as Described,Completed,247.94,
+RMA-00255,16266,23798,2022-05-20,2022-05-23,,,Item Arrived Too Late,Approved,177.44,Awaiting return shipment.
+RMA-00256,17021,20539,2026-03-12,2026-03-13,,,Changed Mind,Approved,55.87,Item received and inspected.
+RMA-00257,18005,23997,2024-09-14,,,,Item Arrived Too Late,Pending,0.0,Refund issued to original payment method.
+RMA-00258,11930,24429,2024-09-26,,,,Missing Parts,Rejected,0.0,Customer provided photos of damage.
+RMA-00259,11701,24123,2022-07-21,2022-07-25,2022-08-02,,Changed Mind,Received,21.33,
+RMA-00260,11525,22408,2023-02-22,2023-02-27,2023-03-05,2023-03-12,Damaged in Shipping,Completed,39.03,Awaiting return shipment.
+RMA-00261,18758,22083,2024-10-30,,,,Defective Product,Rejected,0.0,
+RMA-00262,19026,21025,2022-02-24,2022-02-26,,,Missing Parts,Approved,102.61,
+RMA-00263,19254,23841,2026-06-30,2026-07-04,,,Quality Not Acceptable,Approved,446.97,Item received and inspected.
+RMA-00264,12674,22932,2024-05-22,2024-05-23,,,Quality Not Acceptable,Approved,1132.68,
+RMA-00265,20153,24237,2025-04-06,,,,Duplicate Order,Rejected,0.0,Second review requested.
+RMA-00266,20083,24441,2026-02-03,,,,Wrong Item Shipped,Rejected,0.0,Replacement sent instead of refund.
+RMA-00267,12162,20107,2022-09-12,2022-09-16,2022-09-22,2022-09-24,Item Arrived Too Late,Completed,88.43,
+RMA-00268,18838,22182,2024-04-29,2024-05-01,2024-05-15,,Quality Not Acceptable,Received,1075.84,
+RMA-00269,13109,20920,2025-12-02,2025-12-04,2025-12-15,2025-12-19,Missing Parts,Completed,106.43,
+RMA-00270,19526,23789,2025-11-02,,,,Item Arrived Too Late,Rejected,0.0,
+RMA-00271,14013,22483,2024-09-03,,,,Damaged in Shipping,Pending,0.0,
+RMA-00272,18049,22795,2026-04-14,2026-04-17,2026-04-20,,Wrong Item Shipped,Received,178.35,
+RMA-00273,16153,22216,2024-03-02,,,,Packaging Damaged,Pending,0.0,RMA label emailed to customer.
+RMA-00274,13690,23607,2023-03-12,2023-03-14,2023-03-26,,Missing Parts,Received,78.05,
+RMA-00275,15636,23913,2023-01-24,2023-01-25,2023-01-28,2023-01-31,Wrong Item Shipped,Completed,548.69,
+RMA-00276,17121,23937,2024-05-02,2024-05-04,,,Not as Described,Approved,87.37,Replacement sent instead of refund.
+RMA-00277,16999,24127,2022-12-11,2022-12-13,,,Item Arrived Too Late,Approved,400.83,
+RMA-00278,19599,20647,2023-07-02,2023-07-04,,,Duplicate Order,Approved,332.57,Item received and inspected.
+RMA-00279,15644,22964,2025-03-22,2025-03-26,,,Not as Described,Approved,183.4,Replacement sent instead of refund.
+RMA-00280,19311,20570,2024-02-11,2024-02-12,,,Quality Not Acceptable,Approved,1447.15,RMA label emailed to customer.
+RMA-00281,10608,24034,2024-10-22,2024-10-27,,,Defective Product,Approved,188.86,Escalated to manager.
+RMA-00282,11798,22129,2024-12-18,2024-12-21,2025-01-04,2025-01-08,Damaged in Shipping,Completed,840.38,
+RMA-00283,19008,20796,2026-04-14,2026-04-17,,,Damaged in Shipping,Approved,307.23,Escalated to manager.
+RMA-00284,14924,23032,2025-07-16,2025-07-20,2025-07-29,2025-08-04,Defective Product,Completed,491.16,Awaiting return shipment.
+RMA-00285,14749,24428,2026-02-17,,,,Item Arrived Too Late,Rejected,0.0,
+RMA-00286,14592,22288,2023-05-21,2023-05-26,2023-05-31,2023-06-05,Wrong Item Shipped,Completed,442.64,Second review requested.
+RMA-00287,14856,22267,2022-08-23,2022-08-27,,,Not as Described,Approved,310.4,Partial refund agreed upon.
+RMA-00288,10861,23549,2026-07-20,2026-07-20,2026-07-20,2026-07-20,Not as Described,Completed,121.64,
+RMA-00289,12074,24352,2022-12-20,2022-12-23,,,Wrong Item Shipped,Approved,850.06,Customer provided photos of damage.
+RMA-00290,14031,24852,2025-04-12,2025-04-14,2025-04-27,,Quality Not Acceptable,Received,88.84,Customer provided photos of damage.
+RMA-00291,10578,21914,2022-07-22,2022-07-24,,,Missing Parts,Approved,413.95,Item received and inspected.
+RMA-00292,11008,21837,2025-07-08,2025-07-13,2025-07-27,,Wrong Item Shipped,Received,284.71,Partial refund agreed upon.
+RMA-00293,11876,24185,2026-06-05,2026-06-10,2026-06-21,,Defective Product,Received,65.17,Forwarded to quality control.
+RMA-00294,16506,24647,2023-06-09,2023-06-11,2023-06-21,2023-06-23,Missing Parts,Completed,1107.24,Refund issued to original payment method.
+RMA-00295,20090,22576,2024-05-18,,,,Changed Mind,Rejected,0.0,
+RMA-00296,14878,21081,2024-03-27,,,,Duplicate Order,Rejected,0.0,
+RMA-00297,16044,23043,2024-07-13,,,,Packaging Damaged,Rejected,0.0,
+RMA-00298,16196,23690,2023-04-06,,,,Defective Product,Pending,0.0,
+RMA-00299,12371,20983,2024-08-07,2024-08-09,,,Changed Mind,Approved,989.89,Item received and inspected.
+RMA-00300,11314,23207,2024-08-12,2024-08-16,2024-08-21,2024-08-25,Quality Not Acceptable,Completed,313.79,
+RMA-00301,14476,21999,2022-02-13,2022-02-14,,,Changed Mind,Approved,1307.22,RMA label emailed to customer.
+RMA-00302,19544,22809,2023-06-16,2023-06-20,2023-06-26,2023-06-30,Missing Parts,Completed,416.89,Partial refund agreed upon.
+RMA-00303,19720,22898,2025-11-06,2025-11-11,2025-11-14,,Missing Parts,Received,1112.31,Escalated to manager.
+RMA-00304,14075,23562,2023-10-23,2023-10-24,2023-10-31,2023-11-02,Duplicate Order,Completed,345.84,Partial refund agreed upon.
+RMA-00305,17622,21111,2023-12-10,,,,Not as Described,Pending,0.0,Second review requested.
+RMA-00306,14654,23838,2023-03-25,2023-03-30,2023-04-05,2023-04-07,Not as Described,Completed,93.83,
+RMA-00307,15206,20251,2023-09-16,,,,Defective Product,Rejected,0.0,Replacement sent instead of refund.
+RMA-00308,13622,24224,2024-03-31,2024-04-01,2024-04-05,2024-04-11,Not as Described,Completed,806.69,Replacement sent instead of refund.
+RMA-00309,17931,20100,2022-10-27,2022-10-30,,,Quality Not Acceptable,Approved,29.95,
+RMA-00310,14133,23828,2022-06-04,2022-06-08,,,Wrong Item Shipped,Approved,402.19,Awaiting return shipment.
+RMA-00311,15990,21015,2024-11-23,2024-11-25,2024-11-28,,Duplicate Order,Received,56.22,Customer provided photos of damage.
+RMA-00312,12522,21126,2025-07-21,2025-07-26,,,Changed Mind,Approved,952.29,Replacement sent instead of refund.
+RMA-00313,16700,23938,2024-05-29,2024-06-03,2024-06-12,2024-06-16,Defective Product,Completed,379.37,Replacement sent instead of refund.
+RMA-00314,11649,22921,2025-09-15,2025-09-18,2025-09-29,2025-10-01,Duplicate Order,Completed,57.42,Replacement sent instead of refund.
+RMA-00315,15717,24856,2025-06-28,2025-07-03,2025-07-06,2025-07-09,Item Arrived Too Late,Completed,1497.26,
+RMA-00316,19678,20945,2024-11-21,2024-11-24,2024-11-28,2024-12-01,Not as Described,Completed,138.12,Awaiting return shipment.
+RMA-00317,19316,23438,2022-02-24,,,,Quality Not Acceptable,Rejected,0.0,Second review requested.
+RMA-00318,18429,21874,2023-03-05,2023-03-07,,,Defective Product,Approved,58.09,Second review requested.
+RMA-00319,18176,21911,2023-03-09,2023-03-14,2023-03-25,,Packaging Damaged,Received,1476.46,Item received and inspected.
+RMA-00320,13082,24908,2022-06-16,2022-06-20,2022-06-28,2022-07-05,Duplicate Order,Completed,173.04,
+RMA-00321,15743,24896,2024-02-06,,,,Missing Parts,Pending,0.0,Forwarded to quality control.
+RMA-00322,18957,21599,2026-04-28,2026-05-02,2026-05-11,2026-05-16,Packaging Damaged,Completed,132.73,Partial refund agreed upon.
+RMA-00323,14902,24821,2024-01-21,2024-01-23,,,Not as Described,Approved,433.88,
+RMA-00324,15177,23952,2025-04-28,2025-05-03,,,Wrong Item Shipped,Approved,527.02,Item received and inspected.
+RMA-00325,14047,24606,2023-05-04,,,,Defective Product,Rejected,0.0,
+RMA-00326,16959,23978,2024-06-24,,,,Quality Not Acceptable,Rejected,0.0,
+RMA-00327,16793,24985,2025-05-18,2025-05-19,,,Not as Described,Approved,54.46,Item received and inspected.
+RMA-00328,19873,22775,2025-10-03,2025-10-08,2025-10-15,,Changed Mind,Received,245.18,Partial refund agreed upon.
+RMA-00329,11176,21343,2022-06-28,,,,Changed Mind,Pending,0.0,
+RMA-00330,16955,23658,2026-03-08,,,,Item Arrived Too Late,Pending,0.0,Item received and inspected.
+RMA-00331,12395,20901,2026-07-16,2026-07-20,2026-07-20,2026-07-20,Changed Mind,Completed,1140.19,Customer provided photos of damage.
+RMA-00332,12032,20716,2022-04-30,2022-05-05,,,Defective Product,Approved,1421.96,Partial refund agreed upon.
+RMA-00333,11696,24992,2025-03-23,,,,Duplicate Order,Pending,0.0,Replacement sent instead of refund.
+RMA-00334,14815,22663,2023-07-30,,,,Quality Not Acceptable,Rejected,0.0,
+RMA-00335,16746,21061,2026-01-25,2026-01-29,,,Defective Product,Approved,102.92,RMA label emailed to customer.
+RMA-00336,17946,22120,2022-07-31,,,,Wrong Item Shipped,Pending,0.0,Customer provided photos of damage.
+RMA-00337,10761,20114,2023-03-02,2023-03-05,,,Damaged in Shipping,Approved,248.78,Refund issued to original payment method.
+RMA-00338,12816,22754,2025-01-28,2025-02-01,2025-02-04,,Not as Described,Received,107.32,Refund issued to original payment method.
+RMA-00339,12812,21595,2022-05-20,2022-05-21,2022-05-24,2022-05-27,Damaged in Shipping,Completed,28.02,Replacement sent instead of refund.
+RMA-00340,18015,20643,2025-01-22,,,,Defective Product,Rejected,0.0,Replacement sent instead of refund.
+RMA-00341,19824,24257,2026-03-25,,,,Item Arrived Too Late,Pending,0.0,Awaiting return shipment.
+RMA-00342,11101,22266,2023-04-05,,,,Duplicate Order,Rejected,0.0,Item received and inspected.
+RMA-00343,19300,22764,2024-01-23,2024-01-25,,,Defective Product,Approved,428.85,Item received and inspected.
+RMA-00344,18929,22184,2024-12-18,2024-12-20,2024-12-28,2024-12-29,Missing Parts,Completed,76.89,Awaiting return shipment.
+RMA-00345,19822,21284,2023-06-24,,,,Defective Product,Pending,0.0,Partial refund agreed upon.
+RMA-00346,16293,22662,2022-06-13,2022-06-17,2022-06-26,2022-07-03,Defective Product,Completed,768.95,
+RMA-00347,11391,21647,2024-08-16,2024-08-21,2024-08-25,2024-08-28,Missing Parts,Completed,125.05,RMA label emailed to customer.
+RMA-00348,18795,23598,2023-05-21,,,,Not as Described,Pending,0.0,
+RMA-00349,15482,24169,2024-11-30,2024-12-04,2024-12-13,,Quality Not Acceptable,Received,65.81,
+RMA-00350,19276,23258,2025-08-20,2025-08-21,2025-08-24,2025-08-27,Quality Not Acceptable,Completed,365.51,
+RMA-00351,19938,23312,2026-07-12,2026-07-15,2026-07-20,2026-07-20,Defective Product,Completed,305.6,Awaiting return shipment.
+RMA-00352,13108,23235,2022-12-08,2022-12-12,2022-12-21,2022-12-27,Not as Described,Completed,74.0,Customer provided photos of damage.
+RMA-00353,10553,23696,2023-03-05,2023-03-06,2023-03-13,,Not as Described,Received,374.23,Escalated to manager.
+RMA-00354,18138,20920,2023-01-08,2023-01-13,,,Packaging Damaged,Approved,105.2,Replacement sent instead of refund.
+RMA-00355,11285,20168,2023-12-15,2023-12-19,,,Packaging Damaged,Approved,413.43,Replacement sent instead of refund.
+RMA-00356,15399,22113,2025-04-23,2025-04-27,,,Defective Product,Approved,151.27,Forwarded to quality control.
+RMA-00357,10543,23957,2023-06-14,2023-06-16,2023-06-27,2023-06-28,Wrong Item Shipped,Completed,120.66,Second review requested.
+RMA-00358,16864,23273,2022-07-30,2022-08-04,2022-08-11,2022-08-13,Defective Product,Completed,55.11,Replacement sent instead of refund.
+RMA-00359,11886,21763,2025-05-10,2025-05-15,2025-05-20,2025-05-25,Duplicate Order,Completed,1411.63,Refund issued to original payment method.
+RMA-00360,11447,22843,2022-08-08,2022-08-11,2022-08-19,2022-08-21,Changed Mind,Completed,249.24,Partial refund agreed upon.
+RMA-00361,17402,20263,2025-04-20,2025-04-25,2025-05-05,2025-05-07,Changed Mind,Completed,29.98,
+RMA-00362,13837,23474,2023-08-31,2023-09-04,,,Packaging Damaged,Approved,990.23,Partial refund agreed upon.
+RMA-00363,18003,20520,2022-10-17,2022-10-18,,,Not as Described,Approved,128.0,
+RMA-00364,20089,24948,2022-09-07,2022-09-08,2022-09-12,2022-09-15,Missing Parts,Completed,275.38,RMA label emailed to customer.
+RMA-00365,14789,20941,2025-10-27,,,,Item Arrived Too Late,Pending,0.0,Second review requested.
+RMA-00366,15049,20118,2022-05-10,2022-05-11,2022-05-25,,Changed Mind,Received,1357.66,Escalated to manager.
+RMA-00367,13336,20770,2025-11-23,2025-11-24,2025-12-07,,Defective Product,Received,1265.51,
+RMA-00368,10496,23956,2025-12-21,2025-12-23,2026-01-04,2026-01-08,Packaging Damaged,Completed,781.39,
+RMA-00369,18115,23362,2022-08-20,,,,Defective Product,Pending,0.0,Item received and inspected.
+RMA-00370,14026,24159,2025-05-22,2025-05-24,2025-05-31,,Missing Parts,Received,84.97,Second review requested.
+RMA-00371,15506,22142,2024-04-28,,,,Not as Described,Rejected,0.0,Refund issued to original payment method.
+RMA-00372,16608,23645,2026-01-13,2026-01-18,2026-01-24,,Quality Not Acceptable,Received,1140.06,
+RMA-00373,13548,20316,2026-01-23,2026-01-25,2026-02-04,2026-02-08,Changed Mind,Completed,49.34,
+RMA-00374,11036,21719,2024-09-03,2024-09-06,,,Changed Mind,Approved,266.45,Partial refund agreed upon.
+RMA-00375,16867,21072,2023-03-22,2023-03-27,2023-04-08,2023-04-11,Damaged in Shipping,Completed,1051.31,
+RMA-00376,12714,22088,2023-07-17,2023-07-21,2023-07-27,,Not as Described,Received,557.73,
+RMA-00377,17181,20356,2022-06-14,2022-06-18,2022-06-26,2022-07-03,Packaging Damaged,Completed,348.18,Refund issued to original payment method.
+RMA-00378,12233,23291,2022-03-09,,,,Missing Parts,Rejected,0.0,Awaiting return shipment.
+RMA-00379,19585,24498,2024-10-16,2024-10-20,,,Changed Mind,Approved,115.82,
+RMA-00380,15428,22227,2023-12-16,2023-12-20,2023-12-26,2023-12-29,Defective Product,Completed,395.58,Customer provided photos of damage.
+RMA-00381,11084,24475,2024-09-06,2024-09-10,,,Quality Not Acceptable,Approved,709.71,RMA label emailed to customer.
+RMA-00382,13481,21231,2022-04-30,2022-05-05,2022-05-14,2022-05-18,Not as Described,Completed,124.18,Second review requested.
+RMA-00383,11042,24201,2024-04-09,2024-04-14,2024-04-20,,Damaged in Shipping,Received,74.98,Second review requested.
+RMA-00384,10582,20957,2023-05-25,2023-05-27,,,Not as Described,Approved,424.23,Awaiting return shipment.
+RMA-00385,12557,22700,2025-11-23,2025-11-24,,,Damaged in Shipping,Approved,1386.93,Awaiting return shipment.
+RMA-00386,15232,21232,2022-12-25,2022-12-26,2023-01-03,,Changed Mind,Received,123.19,Forwarded to quality control.
+RMA-00387,16499,24598,2024-02-01,2024-02-02,,,Item Arrived Too Late,Approved,1183.61,Refund issued to original payment method.
+RMA-00388,18378,23037,2026-06-02,2026-06-04,,,Item Arrived Too Late,Approved,452.79,Partial refund agreed upon.
+RMA-00389,19488,24332,2024-11-29,2024-11-30,2024-12-07,,Duplicate Order,Received,99.47,Awaiting return shipment.
+RMA-00390,18873,21533,2023-12-09,2023-12-10,2023-12-13,2023-12-15,Damaged in Shipping,Completed,133.77,Awaiting return shipment.
+RMA-00391,12525,24027,2026-04-20,2026-04-21,2026-04-24,,Damaged in Shipping,Received,276.07,Partial refund agreed upon.
+RMA-00392,17591,21891,2025-11-01,2025-11-05,2025-11-18,2025-11-19,Quality Not Acceptable,Completed,887.85,RMA label emailed to customer.
+RMA-00393,12171,24799,2025-12-21,2025-12-26,2026-01-07,2026-01-12,Duplicate Order,Completed,279.54,Customer provided photos of damage.
+RMA-00394,13678,24947,2024-08-14,2024-08-16,2024-08-21,2024-08-27,Packaging Damaged,Completed,44.88,Partial refund agreed upon.
+RMA-00395,16229,22156,2022-08-16,2022-08-20,2022-08-31,2022-09-06,Duplicate Order,Completed,190.97,RMA label emailed to customer.
+RMA-00396,11672,20287,2025-09-27,,,,Item Arrived Too Late,Rejected,0.0,
+RMA-00397,18891,22398,2022-02-15,2022-02-16,,,Wrong Item Shipped,Approved,146.72,
+RMA-00398,19629,21991,2023-03-12,2023-03-16,2023-03-29,2023-03-30,Missing Parts,Completed,1193.68,Second review requested.
+RMA-00399,12666,23811,2022-10-17,2022-10-19,2022-10-24,2022-10-28,Wrong Item Shipped,Completed,1209.49,Item received and inspected.
+RMA-00400,14612,23124,2025-09-06,2025-09-10,,,Item Arrived Too Late,Approved,1337.29,Escalated to manager.
+RMA-00401,12084,21701,2025-10-02,,,,Quality Not Acceptable,Rejected,0.0,Escalated to manager.
+RMA-00402,16756,21377,2025-12-14,2025-12-18,,,Wrong Item Shipped,Approved,424.29,Forwarded to quality control.
+RMA-00403,11124,23862,2022-06-06,2022-06-07,2022-06-14,2022-06-18,Not as Described,Completed,93.38,
+RMA-00404,10878,23417,2025-01-17,2025-01-19,,,Duplicate Order,Approved,116.35,Partial refund agreed upon.
+RMA-00405,20184,24739,2022-11-02,2022-11-03,,,Quality Not Acceptable,Approved,75.09,Escalated to manager.
+RMA-00406,15339,20190,2025-09-03,2025-09-07,,,Missing Parts,Approved,340.03,Escalated to manager.
+RMA-00407,13868,24900,2024-11-15,2024-11-16,2024-11-22,2024-11-26,Changed Mind,Completed,482.18,Item received and inspected.
+RMA-00408,15649,22115,2026-03-10,2026-03-15,2026-03-29,,Not as Described,Received,496.34,Second review requested.
+RMA-00409,16903,23958,2025-05-05,2025-05-06,,,Packaging Damaged,Approved,100.68,
+RMA-00410,13328,24832,2025-02-09,2025-02-12,2025-02-15,2025-02-21,Quality Not Acceptable,Completed,442.59,RMA label emailed to customer.
+RMA-00411,11633,22518,2026-07-20,2026-07-20,,,Packaging Damaged,Approved,300.96,
+RMA-00412,15583,20400,2024-03-10,2024-03-14,,,Duplicate Order,Approved,275.0,
+RMA-00413,11170,23581,2022-05-27,2022-05-31,2022-06-08,2022-06-14,Packaging Damaged,Completed,1213.15,Refund issued to original payment method.
+RMA-00414,20066,21131,2025-09-19,2025-09-24,2025-09-30,2025-10-05,Changed Mind,Completed,146.12,Item received and inspected.
+RMA-00415,13571,24215,2026-04-25,2026-04-26,2026-05-05,2026-05-11,Quality Not Acceptable,Completed,515.46,Forwarded to quality control.
+RMA-00416,12787,22953,2024-05-09,2024-05-12,,,Defective Product,Approved,121.01,
+RMA-00417,19686,23034,2023-06-18,2023-06-21,2023-07-01,2023-07-08,Defective Product,Completed,1483.97,Escalated to manager.
+RMA-00418,11104,24313,2023-03-10,2023-03-15,,,Damaged in Shipping,Approved,1078.35,
+RMA-00419,18507,24386,2026-03-11,,,,Packaging Damaged,Pending,0.0,Awaiting return shipment.
+RMA-00420,14467,23077,2023-10-01,2023-10-02,2023-10-13,2023-10-19,Missing Parts,Completed,682.29,RMA label emailed to customer.
+RMA-00421,13138,24065,2023-08-21,2023-08-22,2023-08-25,2023-08-26,Item Arrived Too Late,Completed,296.8,Refund issued to original payment method.
+RMA-00422,16647,20049,2023-06-10,2023-06-14,2023-06-23,2023-06-28,Wrong Item Shipped,Completed,442.81,Escalated to manager.
+RMA-00423,11562,21913,2025-09-28,2025-09-30,2025-10-04,,Damaged in Shipping,Received,55.82,Replacement sent instead of refund.
+RMA-00424,17039,23493,2026-03-28,2026-04-01,2026-04-11,2026-04-18,Wrong Item Shipped,Completed,370.88,Second review requested.
+RMA-00425,13721,22906,2022-05-19,,,,Wrong Item Shipped,Pending,0.0,Awaiting return shipment.
+RMA-00426,13414,24162,2025-07-04,,,,Wrong Item Shipped,Pending,0.0,Forwarded to quality control.
+RMA-00427,19552,21646,2025-11-21,2025-11-22,2025-11-25,,Packaging Damaged,Received,987.04,Forwarded to quality control.
+RMA-00428,14056,24181,2024-04-28,2024-05-01,2024-05-07,2024-05-14,Damaged in Shipping,Completed,1002.18,
+RMA-00429,11355,24084,2022-05-18,2022-05-23,2022-05-27,,Changed Mind,Received,67.72,
+RMA-00430,13608,22363,2025-11-21,,,,Quality Not Acceptable,Pending,0.0,RMA label emailed to customer.
+RMA-00431,19039,24530,2024-12-11,2024-12-15,,,Changed Mind,Approved,143.6,
+RMA-00432,14348,22008,2023-04-26,,,,Missing Parts,Pending,0.0,Item received and inspected.
+RMA-00433,17385,20273,2026-07-11,2026-07-16,,,Changed Mind,Approved,928.69,Partial refund agreed upon.
+RMA-00434,17190,21984,2024-03-14,2024-03-16,,,Damaged in Shipping,Approved,126.6,
+RMA-00435,12820,21529,2023-07-14,2023-07-15,,,Missing Parts,Approved,629.08,Refund issued to original payment method.
+RMA-00436,11047,20498,2022-08-13,,,,Damaged in Shipping,Rejected,0.0,
+RMA-00437,15183,24008,2026-06-10,,,,Wrong Item Shipped,Pending,0.0,RMA label emailed to customer.
+RMA-00438,11659,23845,2023-07-22,,,,Wrong Item Shipped,Rejected,0.0,Partial refund agreed upon.
+RMA-00439,17786,23843,2025-08-13,2025-08-16,,,Packaging Damaged,Approved,459.96,Partial refund agreed upon.
+RMA-00440,18128,20830,2024-06-07,2024-06-08,2024-06-15,,Packaging Damaged,Received,134.27,
+RMA-00441,12976,22554,2026-03-09,2026-03-12,,,Missing Parts,Approved,1259.0,Item received and inspected.
+RMA-00442,16346,22077,2024-11-30,2024-12-04,2024-12-13,2024-12-16,Changed Mind,Completed,392.26,RMA label emailed to customer.
+RMA-00443,11684,23146,2025-11-22,2025-11-27,2025-12-02,2025-12-09,Damaged in Shipping,Completed,1037.4,Item received and inspected.
+RMA-00444,17530,21630,2024-07-05,2024-07-06,2024-07-17,2024-07-22,Quality Not Acceptable,Completed,606.83,Second review requested.
+RMA-00445,16852,22317,2023-06-06,2023-06-11,2023-06-25,,Packaging Damaged,Received,117.46,Customer provided photos of damage.
+RMA-00446,11845,22274,2025-12-07,2025-12-09,,,Missing Parts,Approved,455.09,
+RMA-00447,18731,22348,2026-06-04,2026-06-06,2026-06-09,2026-06-12,Packaging Damaged,Completed,237.32,Second review requested.
+RMA-00448,19972,21803,2024-07-05,,,,Defective Product,Pending,0.0,
+RMA-00449,19150,23697,2026-07-03,2026-07-07,,,Defective Product,Approved,362.38,Forwarded to quality control.
+RMA-00450,14315,24362,2024-10-04,,,,Quality Not Acceptable,Pending,0.0,RMA label emailed to customer.
+RMA-00451,16355,24692,2022-03-07,2022-03-08,,,Duplicate Order,Approved,36.61,
+RMA-00452,19852,22930,2023-10-14,2023-10-18,,,Item Arrived Too Late,Approved,406.45,Escalated to manager.
+RMA-00453,14828,24905,2025-03-17,2025-03-20,,,Not as Described,Approved,1329.69,
+RMA-00454,13098,20686,2025-10-08,2025-10-10,,,Missing Parts,Approved,35.1,Item received and inspected.
+RMA-00455,12350,22149,2024-03-22,2024-03-23,2024-04-04,2024-04-05,Damaged in Shipping,Completed,464.9,Second review requested.
+RMA-00456,14513,23846,2024-09-28,2024-10-02,2024-10-10,,Not as Described,Received,293.39,
+RMA-00457,15362,23067,2026-04-24,2026-04-27,2026-05-11,2026-05-13,Quality Not Acceptable,Completed,759.4,Partial refund agreed upon.
+RMA-00458,11276,20602,2025-09-20,,,,Not as Described,Rejected,0.0,Partial refund agreed upon.
+RMA-00459,13698,24805,2025-04-05,,,,Duplicate Order,Rejected,0.0,Refund issued to original payment method.
+RMA-00460,17005,24119,2024-02-07,2024-02-11,,,Defective Product,Approved,1314.59,Second review requested.
+RMA-00461,15685,20753,2023-07-08,,,,Item Arrived Too Late,Pending,0.0,Awaiting return shipment.
+RMA-00462,14033,21475,2023-02-26,2023-03-02,,,Duplicate Order,Approved,1279.37,Partial refund agreed upon.
+RMA-00463,13818,22525,2024-10-17,2024-10-18,,,Damaged in Shipping,Approved,102.62,Refund issued to original payment method.
+RMA-00464,12978,20201,2025-04-22,2025-04-23,2025-04-30,2025-05-04,Quality Not Acceptable,Completed,131.36,Escalated to manager.
+RMA-00465,16232,23285,2024-06-18,,,,Defective Product,Pending,0.0,Replacement sent instead of refund.
+RMA-00466,12470,20903,2022-04-26,,,,Item Arrived Too Late,Rejected,0.0,Customer provided photos of damage.
+RMA-00467,10719,23698,2023-01-08,2023-01-09,2023-01-15,2023-01-18,Duplicate Order,Completed,50.25,
+RMA-00468,14113,24514,2025-07-25,2025-07-29,2025-08-06,2025-08-09,Not as Described,Completed,1326.64,Item received and inspected.
+RMA-00469,17115,23236,2023-02-18,,,,Missing Parts,Pending,0.0,
+RMA-00470,16038,21548,2024-03-21,2024-03-25,2024-03-30,2024-04-01,Packaging Damaged,Completed,958.05,Forwarded to quality control.
+RMA-00471,11998,22064,2024-05-23,2024-05-28,2024-05-31,,Packaging Damaged,Received,384.0,Forwarded to quality control.
+RMA-00472,10567,20454,2025-12-20,2025-12-22,2025-12-26,,Damaged in Shipping,Received,328.64,
+RMA-00473,16628,21019,2023-01-03,2023-01-06,2023-01-20,2023-01-24,Changed Mind,Completed,550.39,Replacement sent instead of refund.
+RMA-00474,18704,21363,2025-11-16,2025-11-17,2025-11-26,2025-12-02,Packaging Damaged,Completed,554.65,Second review requested.
+RMA-00475,19269,22532,2025-06-20,,,,Damaged in Shipping,Pending,0.0,
+RMA-00476,15764,20447,2026-03-07,,,,Item Arrived Too Late,Pending,0.0,
+RMA-00477,16112,24322,2024-10-02,,,,Item Arrived Too Late,Rejected,0.0,RMA label emailed to customer.
+RMA-00478,17991,22793,2022-10-31,2022-11-02,2022-11-07,2022-11-10,Defective Product,Completed,451.97,Customer provided photos of damage.
+RMA-00479,16401,21581,2024-12-11,2024-12-15,2024-12-26,,Wrong Item Shipped,Received,469.6,
+RMA-00480,13866,22195,2024-12-30,,,,Wrong Item Shipped,Pending,0.0,Item received and inspected.
+RMA-00481,12036,23772,2022-05-22,2022-05-24,2022-06-05,2022-06-08,Not as Described,Completed,1023.01,Refund issued to original payment method.
+RMA-00482,18995,21485,2025-01-03,2025-01-07,2025-01-13,2025-01-17,Missing Parts,Completed,329.71,RMA label emailed to customer.
+RMA-00483,17630,23677,2022-05-18,,,,Damaged in Shipping,Rejected,0.0,Awaiting return shipment.
+RMA-00484,20028,20225,2022-05-18,,,,Packaging Damaged,Rejected,0.0,Awaiting return shipment.
+RMA-00485,12346,20688,2023-06-25,2023-06-26,,,Changed Mind,Approved,1158.34,RMA label emailed to customer.
+RMA-00486,15204,23342,2023-04-03,2023-04-04,,,Item Arrived Too Late,Approved,925.03,Awaiting return shipment.
+RMA-00487,18038,23550,2024-06-27,2024-06-30,2024-07-14,,Item Arrived Too Late,Received,468.98,Customer provided photos of damage.
+RMA-00488,19721,24980,2025-10-17,2025-10-19,2025-10-27,2025-11-02,Wrong Item Shipped,Completed,47.92,
+RMA-00489,16534,21209,2025-12-11,2025-12-16,2025-12-27,,Packaging Damaged,Received,279.8,
+RMA-00490,15374,22340,2023-09-18,,,,Quality Not Acceptable,Rejected,0.0,Awaiting return shipment.
+RMA-00491,14346,22796,2023-07-04,,,,Defective Product,Rejected,0.0,RMA label emailed to customer.
+RMA-00492,15817,23791,2024-04-13,2024-04-14,,,Changed Mind,Approved,419.65,
+RMA-00493,19018,22479,2026-03-01,2026-03-04,,,Not as Described,Approved,949.02,Item received and inspected.
+RMA-00494,14747,20574,2026-07-06,2026-07-10,2026-07-16,2026-07-17,Duplicate Order,Completed,209.46,RMA label emailed to customer.
+RMA-00495,20150,21988,2024-07-09,2024-07-10,2024-07-17,2024-07-23,Packaging Damaged,Completed,1106.61,Customer provided photos of damage.
+RMA-00496,15790,22931,2022-02-16,2022-02-17,,,Missing Parts,Approved,213.69,RMA label emailed to customer.
+RMA-00497,13927,23062,2024-11-14,2024-11-19,2024-12-01,,Packaging Damaged,Received,123.36,
+RMA-00498,18211,23080,2023-08-27,2023-08-30,2023-09-03,2023-09-08,Quality Not Acceptable,Completed,78.22,
+RMA-00499,14839,21931,2026-07-20,2026-07-20,2026-07-20,2026-07-20,Damaged in Shipping,Completed,1169.78,Replacement sent instead of refund.
+RMA-00500,14284,22278,2023-02-02,2023-02-04,2023-02-09,2023-02-12,Damaged in Shipping,Completed,276.38,Customer provided photos of damage.
+RMA-00501,19244,21301,2022-08-03,2022-08-07,,,Packaging Damaged,Approved,438.67,Escalated to manager.
+RMA-00502,17607,22291,2023-05-25,,,,Packaging Damaged,Pending,0.0,Escalated to manager.
+RMA-00503,18144,21380,2023-10-22,,,,Packaging Damaged,Pending,0.0,Escalated to manager.
+RMA-00504,12381,24243,2026-04-20,2026-04-24,,,Damaged in Shipping,Approved,1184.42,
+RMA-00505,17179,24495,2025-10-25,2025-10-26,,,Wrong Item Shipped,Approved,1499.23,Partial refund agreed upon.
+RMA-00506,11796,23985,2026-03-08,2026-03-12,2026-03-26,,Packaging Damaged,Received,52.66,Item received and inspected.
+RMA-00507,14230,22116,2026-01-07,2026-01-10,2026-01-24,2026-01-29,Quality Not Acceptable,Completed,1227.02,Replacement sent instead of refund.
+RMA-00508,12172,24616,2025-04-28,2025-05-02,,,Quality Not Acceptable,Approved,28.33,
+RMA-00509,14714,22203,2023-10-02,,,,Duplicate Order,Pending,0.0,
+RMA-00510,18341,23977,2022-03-17,2022-03-18,,,Wrong Item Shipped,Approved,837.21,RMA label emailed to customer.
+RMA-00511,14876,24704,2024-10-14,2024-10-15,,,Changed Mind,Approved,1065.04,
+RMA-00512,11532,24177,2023-01-13,,,,Damaged in Shipping,Rejected,0.0,Escalated to manager.
+RMA-00513,13815,22951,2023-10-29,,,,Duplicate Order,Rejected,0.0,Replacement sent instead of refund.
+RMA-00514,10591,21214,2025-12-12,,,,Quality Not Acceptable,Pending,0.0,Partial refund agreed upon.
+RMA-00515,14244,21945,2022-09-02,2022-09-07,2022-09-20,2022-09-22,Not as Described,Completed,34.11,Forwarded to quality control.
+RMA-00516,12783,23443,2024-02-14,2024-02-16,2024-02-24,2024-03-02,Changed Mind,Completed,1024.76,Awaiting return shipment.
+RMA-00517,17551,23382,2024-05-14,2024-05-17,,,Wrong Item Shipped,Approved,56.95,Replacement sent instead of refund.
+RMA-00518,17162,23908,2023-07-25,,,,Damaged in Shipping,Pending,0.0,Replacement sent instead of refund.
+RMA-00519,11307,21107,2024-11-24,,,,Not as Described,Pending,0.0,RMA label emailed to customer.
+RMA-00520,16440,23488,2024-06-30,2024-07-05,2024-07-08,2024-07-15,Quality Not Acceptable,Completed,1165.32,Replacement sent instead of refund.
+RMA-00521,15322,22202,2026-03-27,2026-03-31,2026-04-09,,Duplicate Order,Received,94.03,Awaiting return shipment.
+RMA-00522,10776,20297,2026-02-14,2026-02-16,,,Not as Described,Approved,285.91,Partial refund agreed upon.
+RMA-00523,16977,20230,2024-01-05,,,,Damaged in Shipping,Pending,0.0,
+RMA-00524,19706,24230,2023-12-26,,,,Item Arrived Too Late,Pending,0.0,
+RMA-00525,17668,20597,2022-02-23,2022-02-26,2022-03-10,,Packaging Damaged,Received,117.56,
+RMA-00526,19181,21208,2023-01-30,2023-02-04,2023-02-11,,Not as Described,Received,833.3,Customer provided photos of damage.
+RMA-00527,12912,24134,2023-02-13,,,,Defective Product,Pending,0.0,
+RMA-00528,16386,22382,2024-05-13,2024-05-16,2024-05-22,,Damaged in Shipping,Received,732.99,
+RMA-00529,16664,21391,2022-09-24,2022-09-27,2022-10-05,2022-10-06,Item Arrived Too Late,Completed,376.07,Partial refund agreed upon.
+RMA-00530,14496,21424,2025-06-29,,,,Duplicate Order,Rejected,0.0,Forwarded to quality control.
+RMA-00531,12296,20350,2024-01-25,,,,Defective Product,Rejected,0.0,Refund issued to original payment method.
+RMA-00532,19071,23917,2023-04-25,2023-04-30,,,Missing Parts,Approved,409.59,
+RMA-00533,19069,20107,2024-03-28,,,,Duplicate Order,Rejected,0.0,Awaiting return shipment.
+RMA-00534,16055,20542,2022-05-29,,,,Item Arrived Too Late,Rejected,0.0,
+RMA-00535,17528,22160,2025-06-03,2025-06-04,,,Missing Parts,Approved,1176.37,Customer provided photos of damage.
+RMA-00536,20214,21978,2025-01-04,,,,Wrong Item Shipped,Pending,0.0,Forwarded to quality control.
+RMA-00537,17552,20065,2024-07-14,,,,Damaged in Shipping,Pending,0.0,Replacement sent instead of refund.
+RMA-00538,13902,20955,2022-05-02,,,,Changed Mind,Pending,0.0,
+RMA-00539,19330,24599,2023-04-09,,,,Wrong Item Shipped,Rejected,0.0,Partial refund agreed upon.
+RMA-00540,20015,24172,2024-07-19,,,,Changed Mind,Rejected,0.0,Item received and inspected.
+RMA-00541,10613,22563,2025-10-12,2025-10-14,2025-10-18,2025-10-23,Missing Parts,Completed,474.52,Second review requested.
+RMA-00542,11572,23359,2025-03-13,2025-03-17,2025-03-22,2025-03-27,Packaging Damaged,Completed,235.1,
+RMA-00543,12088,21533,2023-08-26,2023-08-27,,,Defective Product,Approved,414.53,Second review requested.
+RMA-00544,15548,20139,2026-01-05,2026-01-09,,,Duplicate Order,Approved,966.75,
+RMA-00545,13705,21137,2023-01-31,,,,Packaging Damaged,Rejected,0.0,Forwarded to quality control.
+RMA-00546,17514,20648,2023-08-17,2023-08-19,,,Missing Parts,Approved,26.04,Second review requested.
+RMA-00547,13513,24383,2022-07-14,,,,Not as Described,Rejected,0.0,Customer provided photos of damage.
+RMA-00548,18886,22585,2022-10-23,2022-10-25,,,Not as Described,Approved,234.18,
+RMA-00549,16719,21718,2023-12-17,,,,Defective Product,Pending,0.0,Refund issued to original payment method.
+RMA-00550,15405,24002,2023-09-22,,,,Changed Mind,Rejected,0.0,Replacement sent instead of refund.
+RMA-00551,18829,20021,2025-04-16,2025-04-19,2025-04-25,2025-04-28,Packaging Damaged,Completed,1093.05,Replacement sent instead of refund.
+RMA-00552,17743,20488,2025-06-21,2025-06-26,2025-06-29,2025-07-02,Duplicate Order,Completed,1250.1,Forwarded to quality control.
+RMA-00553,14823,24421,2026-06-08,,,,Item Arrived Too Late,Pending,0.0,Escalated to manager.
+RMA-00554,15120,24128,2023-06-13,,,,Duplicate Order,Pending,0.0,
+RMA-00555,18966,23018,2026-03-05,,,,Not as Described,Rejected,0.0,Second review requested.
+RMA-00556,10628,24709,2026-01-23,,,,Item Arrived Too Late,Rejected,0.0,RMA label emailed to customer.
+RMA-00557,19996,23318,2024-05-01,,,,Changed Mind,Pending,0.0,
+RMA-00558,16174,21865,2026-05-26,2026-05-31,2026-06-08,2026-06-15,Quality Not Acceptable,Completed,276.13,Second review requested.
+RMA-00559,19051,20614,2026-07-20,,,,Not as Described,Pending,0.0,
+RMA-00560,19772,23427,2026-03-17,,,,Duplicate Order,Pending,0.0,
+RMA-00561,18223,21484,2024-02-02,2024-02-04,2024-02-07,,Missing Parts,Received,650.24,RMA label emailed to customer.
+RMA-00562,18742,23072,2023-05-05,,,,Missing Parts,Rejected,0.0,
+RMA-00563,13220,20862,2026-07-20,2026-07-20,,,Quality Not Acceptable,Approved,1022.62,Partial refund agreed upon.
+RMA-00564,16522,23084,2025-07-09,2025-07-10,2025-07-24,2025-07-26,Wrong Item Shipped,Completed,206.93,Partial refund agreed upon.
+RMA-00565,10798,22587,2023-08-01,2023-08-05,,,Item Arrived Too Late,Approved,280.45,
+RMA-00566,19641,23523,2024-12-04,2024-12-08,2024-12-14,2024-12-20,Not as Described,Completed,1188.92,Item received and inspected.
+RMA-00567,11201,20993,2022-12-31,2023-01-05,,,Defective Product,Approved,150.54,Forwarded to quality control.
+RMA-00568,14657,22198,2025-03-31,2025-04-04,2025-04-17,2025-04-23,Missing Parts,Completed,21.38,Awaiting return shipment.
+RMA-00569,14332,23770,2023-10-29,2023-10-31,,,Quality Not Acceptable,Approved,44.29,
+RMA-00570,14699,24271,2025-01-30,,,,Damaged in Shipping,Rejected,0.0,Escalated to manager.
+RMA-00571,13766,22184,2025-11-15,2025-11-16,,,Duplicate Order,Approved,1106.3,Refund issued to original payment method.
+RMA-00572,18339,22591,2026-05-02,,,,Duplicate Order,Pending,0.0,Item received and inspected.
+RMA-00573,14237,21821,2024-10-07,2024-10-09,2024-10-13,,Damaged in Shipping,Received,61.91,
+RMA-00574,13120,24216,2024-06-26,2024-06-30,2024-07-06,2024-07-08,Item Arrived Too Late,Completed,794.89,Item received and inspected.
+RMA-00575,10762,24259,2025-07-10,2025-07-12,2025-07-15,2025-07-22,Wrong Item Shipped,Completed,172.39,Refund issued to original payment method.
+RMA-00576,20082,21170,2024-08-01,,,,Defective Product,Pending,0.0,Replacement sent instead of refund.
+RMA-00577,14804,21902,2025-12-04,,,,Duplicate Order,Rejected,0.0,
+RMA-00578,19225,23382,2026-01-31,2026-02-01,2026-02-06,,Packaging Damaged,Received,290.3,
+RMA-00579,18511,21319,2024-11-26,2024-11-27,2024-12-01,2024-12-06,Wrong Item Shipped,Completed,195.98,Replacement sent instead of refund.
+RMA-00580,18127,22345,2023-09-01,,,,Damaged in Shipping,Rejected,0.0,Escalated to manager.
+RMA-00581,13812,22670,2026-05-15,2026-05-18,2026-05-27,,Item Arrived Too Late,Received,446.05,
+RMA-00582,16567,20122,2022-06-16,,,,Damaged in Shipping,Rejected,0.0,
+RMA-00583,10727,20265,2024-03-13,2024-03-18,,,Not as Described,Approved,43.9,Escalated to manager.
+RMA-00584,10509,22218,2023-06-17,2023-06-18,,,Not as Described,Approved,192.35,Escalated to manager.
+RMA-00585,13917,22284,2024-02-13,2024-02-17,,,Duplicate Order,Approved,164.96,Forwarded to quality control.
+RMA-00586,15949,22203,2025-11-10,2025-11-14,2025-11-25,,Quality Not Acceptable,Received,598.6,Customer provided photos of damage.
+RMA-00587,19714,24302,2026-03-01,2026-03-02,2026-03-16,,Quality Not Acceptable,Received,447.14,Awaiting return shipment.
+RMA-00588,11805,24695,2025-11-19,,,,Not as Described,Rejected,0.0,Partial refund agreed upon.
+RMA-00589,13681,23069,2026-02-25,,,,Missing Parts,Rejected,0.0,Forwarded to quality control.
+RMA-00590,18518,23083,2022-02-14,,,,Quality Not Acceptable,Rejected,0.0,
+RMA-00591,19253,23554,2023-03-16,2023-03-18,2023-03-25,2023-03-31,Wrong Item Shipped,Completed,290.17,
+RMA-00592,13448,20787,2026-04-03,2026-04-06,,,Duplicate Order,Approved,100.14,Customer provided photos of damage.
+RMA-00593,11891,22012,2026-01-18,2026-01-19,2026-01-23,2026-01-24,Packaging Damaged,Completed,493.52,
+RMA-00594,12025,22033,2022-08-02,2022-08-04,2022-08-16,2022-08-21,Missing Parts,Completed,29.52,Second review requested.
+RMA-00595,17940,22736,2023-09-12,,,,Missing Parts,Pending,0.0,
+RMA-00596,11661,20797,2024-10-06,,,,Wrong Item Shipped,Pending,0.0,Awaiting return shipment.
+RMA-00597,18603,20395,2023-07-10,,,,Changed Mind,Pending,0.0,Item received and inspected.
+RMA-00598,19520,20345,2022-03-19,2022-03-20,,,Packaging Damaged,Approved,999.43,Refund issued to original payment method.
+RMA-00599,13575,21194,2025-07-21,2025-07-22,,,Item Arrived Too Late,Approved,923.86,
+RMA-00600,11521,20558,2024-03-13,,,,Wrong Item Shipped,Pending,0.0,Customer provided photos of damage.
+RMA-00601,19086,21544,2026-03-31,2026-04-01,,,Item Arrived Too Late,Approved,229.76,Escalated to manager.
+RMA-00602,19006,21289,2025-01-11,,,,Item Arrived Too Late,Rejected,0.0,
+RMA-00603,11624,20061,2023-07-18,2023-07-20,2023-08-01,,Wrong Item Shipped,Received,43.23,Item received and inspected.
+RMA-00604,12384,20172,2025-06-19,2025-06-23,2025-07-02,2025-07-05,Quality Not Acceptable,Completed,243.12,Forwarded to quality control.
+RMA-00605,20176,21408,2026-02-20,2026-02-23,2026-03-07,,Duplicate Order,Received,1440.57,
+RMA-00606,15007,22498,2022-11-18,,,,Quality Not Acceptable,Pending,0.0,Escalated to manager.
+RMA-00607,18249,21477,2026-04-08,2026-04-09,,,Packaging Damaged,Approved,65.19,
+RMA-00608,15180,21171,2022-05-11,,,,Item Arrived Too Late,Rejected,0.0,Refund issued to original payment method.
+RMA-00609,17997,20393,2022-02-14,2022-02-16,2022-02-27,2022-03-06,Defective Product,Completed,76.31,
+RMA-00610,19494,20070,2025-12-21,2025-12-23,2025-12-28,,Wrong Item Shipped,Received,76.49,
+RMA-00611,17120,23514,2023-05-06,2023-05-08,,,Item Arrived Too Late,Approved,138.2,
+RMA-00612,14377,20284,2022-11-21,2022-11-23,2022-12-06,2022-12-10,Quality Not Acceptable,Completed,1094.11,Partial refund agreed upon.
+RMA-00613,16753,21614,2024-03-25,2024-03-30,,,Wrong Item Shipped,Approved,70.44,Customer provided photos of damage.
+RMA-00614,18353,24950,2023-03-14,,,,Defective Product,Pending,0.0,
+RMA-00615,18672,21314,2022-02-27,2022-03-04,,,Item Arrived Too Late,Approved,492.89,Refund issued to original payment method.
+RMA-00616,15760,23794,2026-02-04,2026-02-09,2026-02-18,2026-02-22,Defective Product,Completed,66.35,Escalated to manager.
+RMA-00617,16583,22604,2024-12-03,,,,Defective Product,Pending,0.0,
+RMA-00618,17972,20568,2022-12-23,2022-12-24,2023-01-02,,Defective Product,Received,1284.52,RMA label emailed to customer.
+RMA-00619,11394,22283,2026-05-14,2026-05-15,2026-05-22,2026-05-29,Missing Parts,Completed,1108.25,Second review requested.
+RMA-00620,13039,20101,2025-05-29,2025-06-01,2025-06-12,,Missing Parts,Received,56.27,
+RMA-00621,17177,20382,2025-11-28,2025-12-01,,,Item Arrived Too Late,Approved,44.58,Partial refund agreed upon.
