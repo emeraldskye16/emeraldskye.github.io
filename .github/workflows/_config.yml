@@ -1,0 +1,26 @@
+title: "Emerald Tresch Portfolio"
+description: "CS-499 Computer Science Capstone Portfolio"
+baseurl: ""            # GitHub Pages root site
+url: "https://emeraldskye16.github.io"
+
+theme: minima          # Clean, simple GitHub Pages theme
+
+markdown: kramdown
+highlighter: rouge
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Navigation links for your portfolio
+nav:
+  - name: "Home"
+    link: "/"
+  - name: "Milestone 1 – Code Review"
+    link: "/Milestone-One-Code-Review/"
+  - name: "Milestone 2 – Software Design"
+    link: "/Milestone-Two-Enhancement-One-Software-Design-and-Engineering/"
+  - name: "Milestone 3 – Algorithms & Data Structures"
+    link: "/Milestone-Three-Enhancement-Two-Algorithms-and-Data-Structure/"
+  - name: "Milestone 4 – Database"
+    link: "/Milestone-Four-Enhancement-Three-Database/"
