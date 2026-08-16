@@ -11,13 +11,13 @@ The code review is delivered as a walkthrough video, accompanied by written anal
 
 ---
 
-## 📁 Original Artifact Files (Before Enhancements)
 
-All original code files used in this milestone are stored in the dedicated Milestone One branch:
+## Code Review Video
 
-👉 **[View Original Artifact Files on GitHub](https://github.com/emeraldskye16/emeraldskye16.github.io/tree/Milestone-One-Code-Review/Milestone-One-Code-Review)**
+A link to the full code review video will be placed here once uploaded:
 
-This folder contains the unmodified version of the project that I reviewed in the video and used as the baseline for all future enhancements.
+**Video Link:**[Milestone 1 Code Review](https://github.com/emeraldskye16/emeraldskye16.github.io/tree/Milestone-One-Code-Review/Milestone-One-Code-Review)**
+
 
 ---
 
