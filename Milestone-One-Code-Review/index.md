@@ -3,8 +3,6 @@ layout: page
 title: Milestone 1 – Code Review
 ---
 
-# Milestone 1 – Code Review
-
 This milestone presents my informal code review for the artifact I selected to enhance throughout the CS 499 capstone. The purpose of this review is to demonstrate my understanding of the existing functionality, identify areas for improvement, and outline the enhancements I planned to implement across software design, algorithms and data structures, and databases.
 
 The code review is delivered as a walkthrough video, accompanied by written analysis aligned with the CS 499 Final Project Guidelines and Rubric.
@@ -16,7 +14,7 @@ The code review is delivered as a walkthrough video, accompanied by written anal
 
 A link to the full code review video will be placed here once uploaded:
 
-**Video Link:**[Milestone 1 Code Review](https://github.com/emeraldskye16/emeraldskye16.github.io/tree/Milestone-One-Code-Review/Milestone-One-Code-Review)**
+**Video Link:** [Milestone 1 Code Review](https://github.com/emeraldskye16/emeraldskye16.github.io/tree/Milestone-One-Code-Review/Milestone-One-Code-Review)**
 
 
 ---
