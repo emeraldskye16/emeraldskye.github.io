@@ -1,91 +1,128 @@
+---
 layout: page
-title: Professional ePortfolio – Emerald Tresch
+title: Milestone 1 – Code Review
 ---
 
-# Professional Self‑Assessment
+# Milestone 1 – Code Review
 
-Welcome to my Computer Science ePortfolio. This portfolio represents the culmination of my work in the Bachelor of Science in Computer Science program at Southern New Hampshire University. Throughout the program, I have strengthened my abilities in software engineering, algorithms and data structures, databases, security, collaboration, and professional communication. The artifacts and enhancements presented here demonstrate my growth, my technical competencies, and my readiness to contribute meaningfully in the field of computer science.
+This milestone presents my informal code review for the artifact I selected to enhance throughout the CS 499 capstone. The purpose of this review is to demonstrate my understanding of the existing functionality, identify areas for improvement, and outline the enhancements I planned to implement across software design, algorithms and data structures, and databases.
 
-Working through the CS program has helped me refine my strengths in several key areas:
-
-- **Collaborating in team environments:** Many of my projects required coordination, version control, and shared problem‑solving. These experiences taught me how to communicate clearly, divide responsibilities, and support team decision‑making.
-- **Communicating with stakeholders:** I learned to present technical concepts to non‑technical audiences through written documentation, diagrams, and walkthroughs. This skill is reflected in my enhancement narratives and code review.
-- **Data structures and algorithms:** Courses such as CS 260 and CS 340 strengthened my ability to evaluate algorithmic trade‑offs, optimize performance, and design efficient solutions.
-- **Software engineering and design:** I gained experience in object‑oriented design, testing, refactoring, and architectural decision‑making, which directly informed my Enhancement One work.
-- **Databases and security:** Through SQL, MongoDB, and secure coding coursework, I developed a security‑focused mindset and an understanding of how to protect data, anticipate vulnerabilities, and design resilient systems.
-
-Together, these experiences shaped my professional goals and values. This portfolio demonstrates the technical depth, adaptability, and problem‑solving mindset I bring to the field.
+The code review is delivered as a walkthrough video, accompanied by written analysis aligned with the CS 499 Final Project Guidelines and Rubric.
 
 ---
 
-# Portfolio Overview
+## 📁 Original Artifact Files (Before Enhancements)
 
-This ePortfolio contains the following components, organized according to the CS 499 Final Project requirements:
+All original code files used in this milestone are stored in the dedicated Milestone One branch:
 
-- **Code Review Video**  
-  A walkthrough of my selected artifact before enhancements, including analysis of structure, logic, efficiency, and planned improvements.
+👉 **[View Original Artifact Files on GitHub](https://github.com/emeraldskye16/emeraldskye16.github.io/tree/Milestone-One-Code-Review/Milestone-One-Code-Review)**
 
-- **Enhanced Artifacts**  
-  Three enhancements demonstrating mastery in:
-  - Software Design & Engineering  
-  - Algorithms & Data Structures  
-  - Databases  
-
-- **Narratives**  
-  Each artifact includes a written narrative describing:
-  - What the artifact is  
-  - Why it was selected  
-  - How the enhancement improved it  
-  - What skills were demonstrated  
-  - How the enhancement aligns with course outcomes  
-  - What I learned during the enhancement process  
-
-These artifacts collectively demonstrate my proficiency across all five CS 499 course outcomes.
+This folder contains the unmodified version of the project that I reviewed in the video and used as the baseline for all future enhancements.
 
 ---
 
-# Artifact Navigation
+## 📹 Code Review Video
 
-Use the links below to explore each milestone and enhancement.
+A link to the full code review video will be placed here once uploaded:
 
-## 🔹 Milestone 1 – Code Review  
-A walkthrough of the original artifact, including existing functionality, areas for improvement, and planned enhancements.  
-**View the page:**  
-[Milestone 1 – Code Review](/Milestone-One-Code-Review/)
-
-## 🔹 Milestone 2 – Enhancement One: Software Design & Engineering  
-Enhancement demonstrating improved structure, design, complexity, or engineering practices.  
-**View the page:**  
-[Milestone 2 – Software Design & Engineering](/Milestone-Two-Enhancement-One-Software-Design-and-Engineering/)
-
-## 🔹 Milestone 3 – Enhancement Two: Algorithms & Data Structures  
-Enhancement demonstrating improved efficiency, algorithmic performance, or advanced data structure usage.  
-**View the page:**  
-[Milestone 3 – Algorithms & Data Structures](/Milestone-Three-Enhancement-Two-Algorithms-and-Data-Structure/)
-
-## 🔹 Milestone 4 – Enhancement Three: Databases  
-Enhancement demonstrating advanced SQL, MongoDB, data mining, or full‑stack database integration.  
-**View the page:**  
-[Milestone 4 – Database](/Milestone-Four-Enhancement-Three-Database/)
+**Video Link:** _Coming Soon_
 
 ---
 
-# Course Outcomes Alignment
+# A. Existing Functionality
 
-This portfolio demonstrates mastery of all CS 499 outcomes through the combined work of the code review, enhancements, and narratives. The enhancements reflect:
+In the code review, I begin by walking through the original artifact and explaining its core features, structure, and behavior. I describe:
 
-- Collaborative decision‑making  
-- Professional communication  
-- Algorithmic problem‑solving  
-- Innovative computing techniques  
-- Security‑focused design  
+- The purpose of the program  
+- How the main components interact  
+- The flow of data and control  
+- The user‑facing functionality  
+- Any supporting modules, classes, or external dependencies  
 
-Each artifact page includes explicit alignment to these outcomes.
+This establishes a baseline understanding of the artifact before enhancements.
 
 ---
 
-# Contact & Additional Materials
+# B. Code Analysis
 
-Additional materials, diagrams, documentation, and external links (such as the code review video) are included within the artifact pages where appropriate.
+Next, I analyze the artifact to identify opportunities for improvement. The review focuses on several key areas:
 
-Thank you for reviewing my portfolio.
+### **Structure & Organization**
+- How well the code is modularized  
+- Whether functions and classes follow single‑responsibility principles  
+- Opportunities to improve readability and maintainability  
+
+### **Logic & Efficiency**
+- Inefficient loops or operations  
+- Redundant logic  
+- Algorithmic bottlenecks  
+- Opportunities to optimize runtime or memory usage  
+
+### **Functionality**
+- Missing features  
+- Edge cases not handled  
+- Opportunities to expand or refine behavior  
+
+### **Security**
+- Input validation  
+- Error handling  
+- Potential vulnerabilities  
+- Opportunities to improve data protection  
+
+### **Testing & Documentation**
+- Missing or outdated comments  
+- Lack of automated tests  
+- Areas where documentation could better support maintainability  
+
+This analysis directly supports the enhancement plan and aligns with the CS 499 requirement to demonstrate mastery of professional code evaluation.
+
+---
+
+# C. Planned Enhancements
+
+Based on the analysis, I outline the enhancements I will implement across the three CS 499 categories:
+
+## **1. Software Design & Engineering**
+Planned improvements include:
+- Refactoring major components for clarity and modularity  
+- Improving naming conventions and documentation  
+- Enhancing architecture to support scalability or new features  
+- Applying object‑oriented design principles where appropriate  
+
+---
+
+## **2. Algorithms & Data Structures**
+Enhancements in this category focus on:
+- Replacing inefficient algorithms with optimized alternatives  
+- Introducing more appropriate data structures  
+- Improving runtime performance  
+- Reducing memory usage  
+
+---
+
+## **3. Databases**
+Enhancements planned for this category include:
+- Adding or improving database integration  
+- Designing more efficient queries  
+- Implementing secure data handling  
+- Introducing relational or NoSQL structures depending on the artifact  
+
+---
+
+# Alignment to CS 499 Course Outcomes
+
+This milestone contributes to all five CS 499 outcomes by demonstrating:
+
+- **Collaborative and professional communication** through the video walkthrough  
+- **Technical analysis and evaluation** of existing code  
+- **Algorithmic reasoning** in identifying performance improvements  
+- **Innovative computing practices** in planning enhancements  
+- **Security‑focused thinking** in identifying vulnerabilities and mitigation strategies  
+
+---
+
+# Next Steps
+
+The enhancements outlined here will be implemented in Milestones Two, Three, and Four. Each enhancement will be accompanied by a detailed narrative explaining the work completed, the skills demonstrated, and the course outcomes achieved.
+
+This code review serves as the foundation for the entire ePortfolio.
