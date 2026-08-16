@@ -14,7 +14,7 @@ The code review is delivered as a walkthrough video, accompanied by written anal
 
 A link to the full code review video will be placed here once uploaded:
 
-**Video Link:** [Milestone 1 Code Review](https://github.com/emeraldskye16/emeraldskye16.github.io/tree/Milestone-One-Code-Review/Milestone-One-Code-Review)**
+**Video Link:** [Milestone 1 Code Review](https://github.com/emeraldskye16/emeraldskye16.github.io/tree/Milestone-One-Code-Review/Milestone-One-Code-Review)
 
 
 ---
