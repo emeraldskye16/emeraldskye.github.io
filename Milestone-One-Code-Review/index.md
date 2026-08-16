@@ -9,110 +9,53 @@ The code review is delivered as a walkthrough video, accompanied by written anal
 
 ---
 
-
 ## Code Review Video
 
 A link to the full code review video will be placed here once uploaded:
 
 **Video Link:** [Milestone 1 Code Review](https://github.com/emeraldskye16/emeraldskye16.github.io/tree/Milestone-One-Code-Review/Milestone-One-Code-Review)
 
+---
+
+# Overview
+
+This milestone presents my informal code review of three artifacts from my Computer Science program. These artifacts represent the three major CS499 enhancement categories: Software Design & Engineering, Algorithms & Data Structures, and Databases. The purpose of this review is to evaluate the existing functionality of each artifact, identify structural and algorithmic weaknesses, and outline the enhancements planned for the capstone.
 
 ---
 
-# A. Existing Functionality
+# Artifact Summaries
 
-In the code review, I begin by walking through the original artifact and explaining its core features, structure, and behavior. I describe:
+## CS330 OpenGL Lighthouse Project  
+A fully rendered 3D scene built using C++, OpenGL, GLSL shaders, and custom camera controls. The rendering pipeline is monolithic, with all objects drawn inside a single function.
 
-- The purpose of the program  
-- How the main components interact  
-- The flow of data and control  
-- The user‑facing functionality  
-- Any supporting modules, classes, or external dependencies  
+## CS340 MongoDB Dashboard  
+A Python/Dash dashboard backed by a MongoDB CRUD module. The filtering logic is repetitive, and callbacks mix data processing with visualization.
 
-This establishes a baseline understanding of the artifact before enhancements.
-
----
-
-# B. Code Analysis
-
-Next, I analyze the artifact to identify opportunities for improvement. The review focuses on several key areas:
-
-### **Structure & Organization**
-- How well the code is modularized  
-- Whether functions and classes follow single‑responsibility principles  
-- Opportunities to improve readability and maintainability  
-
-### **Logic & Efficiency**
-- Inefficient loops or operations  
-- Redundant logic  
-- Algorithmic bottlenecks  
-- Opportunities to optimize runtime or memory usage  
-
-### **Functionality**
-- Missing features  
-- Edge cases not handled  
-- Opportunities to expand or refine behavior  
-
-### **Security**
-- Input validation  
-- Error handling  
-- Potential vulnerabilities  
-- Opportunities to improve data protection  
-
-### **Testing & Documentation**
-- Missing or outdated comments  
-- Lack of automated tests  
-- Areas where documentation could better support maintainability  
-
-This analysis directly supports the enhancement plan and aligns with the CS 499 requirement to demonstrate mastery of professional code evaluation.
+## DAD220 SQL Returns‑Management Analysis  
+A relational dataset analyzed using SQL joins and aggregations. The queries work but lack indexing, parameterization, and advanced SQL techniques.
 
 ---
 
-# C. Planned Enhancements
+# Key Findings
 
-Based on the analysis, I outline the enhancements I will implement across the three CS 499 categories:
-
-## **1. Software Design & Engineering**
-Planned improvements include:
-- Refactoring major components for clarity and modularity  
-- Improving naming conventions and documentation  
-- Enhancing architecture to support scalability or new features  
-- Applying object‑oriented design principles where appropriate  
-
----
-
-## **2. Algorithms & Data Structures**
-Enhancements in this category focus on:
-- Replacing inefficient algorithms with optimized alternatives  
-- Introducing more appropriate data structures  
-- Improving runtime performance  
-- Reducing memory usage  
+- Monolithic architecture (CS330)  
+- Duplicate query logic (CS340)  
+- Full table scans and missing indexes (DAD220)  
+- Limited documentation  
+- Minimal defensive programming  
+- Opportunities for algorithmic optimization  
+- Security gaps in input handling and query construction  
 
 ---
 
-## **3. Databases**
-Enhancements planned for this category include:
-- Adding or improving database integration  
-- Designing more efficient queries  
-- Implementing secure data handling  
-- Introducing relational or NoSQL structures depending on the artifact  
+# Planned Enhancements
+
+- **Milestone 2:** Refactor CS330 using object‑oriented architecture and improved shader management  
+- **Milestone 3:** Optimize CS340 using reusable query builders, caching, and aggregation pipelines  
+- **Milestone 4:** Rebuild and enhance DAD220 using normalized schema design and optimized SQL  
 
 ---
 
-# Alignment to CS 499 Course Outcomes
+# Course Outcome Alignment
 
-This milestone contributes to all five CS 499 outcomes by demonstrating:
-
-- **Collaborative and professional communication** through the video walkthrough  
-- **Technical analysis and evaluation** of existing code  
-- **Algorithmic reasoning** in identifying performance improvements  
-- **Innovative computing practices** in planning enhancements  
-- **Security‑focused thinking** in identifying vulnerabilities and mitigation strategies  
-
----
-
-# Next Steps
-
-The enhancements outlined here will be implemented in Milestones Two, Three, and Four. Each enhancement will be accompanied by a detailed narrative explaining the work completed, the skills demonstrated, and the course outcomes achieved.
-
-This code review serves as the foundation for the entire ePortfolio.
+This milestone demonstrates professional communication, technical evaluation, algorithmic reasoning, security‑focused analysis, and planning of innovative computing solutions.
