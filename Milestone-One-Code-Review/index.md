@@ -21,14 +21,6 @@ This folder contains the unmodified version of the project that I reviewed in th
 
 ---
 
-## 📹 Code Review Video
-
-A link to the full code review video will be placed here once uploaded:
-
-**Video Link:** _Coming Soon_
-
----
-
 # A. Existing Functionality
 
 In the code review, I begin by walking through the original artifact and explaining its core features, structure, and behavior. I describe:
