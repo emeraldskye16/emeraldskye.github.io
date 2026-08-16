@@ -9,7 +9,6 @@ Welcome to my Computer Science ePortfolio. This portfolio represents the culmina
 
 Working through the CS program has helped me refine my strengths in several key areas:
 
-- **Collaborating in team environments:** Many of my projects required coordination, version control, and shared problem‑solving. These experiences taught me how to communicate clearly, divide responsibilities, and support team decision‑making.
 - **Communicating with stakeholders:** I learned to present technical concepts to non‑technical audiences through written documentation, diagrams, and walkthroughs. This skill is reflected in my enhancement narratives and code review.
 - **Data structures and algorithms:** Courses such as CS 260 and CS 340 strengthened my ability to evaluate algorithmic trade‑offs, optimize performance, and design efficient solutions.
 - **Software engineering and design:** I gained experience in object‑oriented design, testing, refactoring, and architectural decision‑making, which directly informed my Enhancement One work.
